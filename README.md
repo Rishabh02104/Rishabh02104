@@ -1,4 +1,16 @@
-# 🌌 Rishavendra Sharma
+```text
+      ___           ___           ___                       ___           ___           ___                       ___     
+     /\  \         /\  \         /\  \                     /\  \         /\  \         /\  \                     /\  \    
+    /::\  \       /::\  \        \::\  \                   /::\  \       /::\  \       /::\  \                   /::\  \   
+   /:/\:\  \     /:/\:\  \        \::\  \                 /:/\:\  \     /:/\:\  \     /:/\:\  \                 /:/\:\  \  
+  /::\~\:\  \   /::\~\:\  \       /::\  \                /::\~\:\  \   /::\~\:\  \   /::\~\:\  \               /::\~\:\  \ 
+ /:/\:\ \:\__\ /:/\:\ \:\__\     /:/\:\__\              /:/\:\ \:\__\ /:/\:\ \:\__\ /:/\:\ \:\__\             /:/\:\ \:\__\
+ \/__\:\/:/  / \/__\:\/:/  /    /:/  \/__/              \/__\:\/:/  / \/_|::\/:/  / \/_|::\/:/  /             \/__\:\/:/  /
+      \::/  /       \::/  /    /:/  /                        \::/  /     |:|::/  /     |:|::/  /                   \::/  / 
+      /:/  /        /:/  /     \/__/                         /:/  /      |:|:/  /      |:|:/  /                    /:/  /  
+     /:/  /        /:/  /                                   /:/  /       |:|/  /       |:|/  /                    /:/  /   
+     \/__/         \/__/                                    \/__/        \|/__/        \|/__/                     \/__/    
+```
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rishavendra+Sharma;AI+Developer+%26+Full-Stack;Building+Autonomous+Agentic+Systems;Focusing+on+Interactive+3D+WebGL" alt="Typing SVG" />
@@ -18,99 +30,89 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 💻 System Specifications (neofetch --portfolio)
 
-```yaml
-name: Rishavendra Sharma
-location: India
-roles:
-  - AI Developer / Full-Stack Builder
-  - Agentic AI Researcher
-  - Computer Science & Engineering Student
-currently_building: Autonomous Agent Pipelines & 3D Interactive WebGL OS
-portfolio: https://rishavendra-os.vercel.app/
-contact: rishavendrasharma9353@gmail.com
+```text
+rishavendra@os-core
+-------------------
+Host: Rishavendra Sharma (Rishabh02104)
+OS: RishavendraOS v2.5.0 (Three.js / React Three Fiber / WebGL)
+Kernel: Next.js 16.2.7 (Turbopack Engine)
+Uptime: Continuous learning & system optimization
+Shell: zsh / bash / powershell
+CPU: Neural Pipelines (OpenCV, PyTorch, CNNs)
+Memory: Context Windows (LangChain, OpenAI API, Supabase vector databases)
+Dev Quote: "AI should augment developer capabilities, not replace them. We build tools, not toys."
 ```
 
-* 🔭 **Building AI-powered platforms** — from autonomous job application pipelines to WebGL-based cybernetic interfaces.
-* 🧠 **Passionate about Agentic AI, Computer Vision, and 3D Web Graphics**.
-* 🏗️ **Love architecting full-stack applications** with Next.js, React Three Fiber, and FastAPI cloud integrations.
+* 🔭 **Building AI-powered platforms** — focusing on agentic browser automations and real-time WebGL canvas integrations.
+* 🧠 **Specializing in Agentic AI pipelines, Computer Vision architectures, and 3D web rendering**.
+* 🏗️ **Engineering clean codebases** — using Next.js for high-fidelity frontends and FastAPI for optimized, async python backends.
 * 🔗 Check out my interactive portfolio OS at **[rishavendra-os.vercel.app](https://rishavendra-os.vercel.app)**.
-* 📫 Reach me at **[creativesimulation1@gmail.com](mailto:creativesimulation1@gmail.com)** or **[rishavendrasharma9353@gmail.com](mailto:rishavendrasharma9353@gmail.com)**.
-* ⚡ Shipped production-grade platforms spanning WebGL, resume tech, and automation crawlers.
+* 📫 Reach me at **[rishavendrasharma9353@gmail.com](mailto:rishavendrasharma9353@gmail.com)**.
+* ⚡ Shipped 5 production-grade platforms spanning WebGL rendering, resume parsing technology, and web crawler automation.
 
 ---
 
-### 🎯 What I'm Working On
+### 🎯 Development Roadmap & Activity
 
-| Category | Status | Details |
+| Target Domain | Status | Technical Details |
 | :--- | :--- | :--- |
-| 🔨 **Currently Building** | **AI Job Agent v2** | Adding multi-agent LangGraph orchestration and dynamic form field schemas |
-| 🧪 **Experimenting With** | **GLSL Shaders & WebGL** | Custom shader materials, volume post-processing filters, and depth buffer masking |
-| 📚 **Currently Learning** | **WebGPU & Distributed Systems** | Transitioning WebGL structures to WebGPU and containerizing FastAPI backends |
-| 🤝 **Open To** | **Roles & Projects** | Full-stack developer roles, AI/ML engineering, and agentic automation design |
-| 💬 **Ask Me About** | **My Stack** | React, Next.js, R3F, FastAPI, Playwright scrapers, and prompt engineering |
+| 🔨 **Currently Building** | **AI Job Agent v2** | Structuring multi-agent task loops using LangGraph, handling persistent browser state caching |
+| 🧪 **Experimenting With** | **Custom WebGL Shaders** | Volume post-processing filters, depth-buffer masking, and procedural particle physics |
+| 📚 **Currently Learning** | **WebGPU & Infrastructure** | Porting WebGL vertex/fragment pipelines to WebGPU; standardizing Docker/Kubernetes container steps |
+| 🤝 **Open To** | **Opportunities** | AI/ML engineering, Full-stack developer roles, and specialized systems automation contracts |
+| 💬 **Ask Me About** | **My Stack** | React, Next.js, R3F, FastAPI, Playwright automation, and vector database integrations |
 
 ---
 
-### 💡 How I Build
-
-> "Ship fast, iterate faster. Bridge the gap between raw machine intelligence and fluid user interaction."
->
-> "Architectures should be modular and auto-scaling. A clean foundation today saves refactoring tomorrow."
->
-> "Interactive graphics bring data to life. 3D in the browser changes how we perceive and navigate software."
-
----
-
-### 🚀 Featured Projects
+### 🚀 Featured Projects — Technical Deep Dive
 
 #### 🤖 [AI Job Agent](https://github.com/Rishabh02104/AI_Job_Agent)
 *Autonomous job search, match scoring, and browser application pipeline*
 * **Stack**: `FastAPI` • `LangChain` • `Next.js` • `Supabase` • `Playwright` • `Python`
-* **Features**:
-  * Scrapes listings dynamically across job portals using custom Playwright and BeautifulSoup scripts.
-  * Evaluates listings against user profiles using LangChain and OpenAI structured schema validators.
-  * Automates form filing, matches CV fields, and auto-submits job applications.
+* **Key Feature**: Dynamic matching of resume profiles against live job descriptions using vector embeddings and structured LLM validators.
+* **🔧 Technical Challenge & Resolution**: 
+  * *Challenge*: Playwright automation getting blocked by CAPTCHA challenges and rate-limit triggers.
+  * *Resolution*: Implemented header rotation middleware, randomized browser viewport setups, and structured persistent context session storage using Supabase to resume failed runs smoothly.
 
 #### 🧠 [RishavendraOS](https://github.com/Rishabh02104/RishavendraOS)
 *WebGL-powered 3D cybernetic portfolio operating system*
 * **Stack**: `Next.js` • `React Three Fiber (R3F)` • `Three.js` • `Framer Motion` • `JavaScript`
-* **Features**:
-  * Holographic point-cloud brain synapse navigation system built with custom GLSL shaders.
-  * Watermark Matrix rain background integrated directly in 3D space utilizing depth pre-pass masks.
-  * Fluid camera controls and transitions managed smoothly via GSAP physics.
+* **Key Feature**: Interactive point-cloud brain navigation leveraging custom vertex and fragment shaders.
+* **🔧 Technical Challenge & Resolution**:
+  * *Challenge*: The falling matrix rain background (a flat 2D canvas texture mapped behind the model) bleeding through transparent brain vertices.
+  * *Resolution*: Programmed a double-pass depth buffer masking setup. A clone of the brain model renders first with depth writing enabled but color output disabled (`colorWrite: false`, `depthWrite: true`), acting as an invisible shield that masks out background elements behind the brain point cloud.
 
 #### 📄 [CareerForge AI](https://github.com/Rishabh02104/Careerforge-ai)
 *AI-powered resume scanner and ATS optimization coach*
 * **Stack**: `Next.js` • `TypeScript` • `Tailwind CSS` • `OpenAI API` • `Supabase`
-* **Features**:
-  * Scans PDF resumes, extracts text metadata, and performs ATS formatting validation.
-  * Cross-references CVs against specific job descriptions to yield match ratings.
-  * Provides structured action cards and step-by-step refactoring recommendations.
+* **Key Feature**: OpenAI-driven structured rating validator that grades resume formats and profiles against real job descriptions.
+* **🔧 Technical Challenge & Resolution**:
+  * *Challenge*: Parsing unstructured PDF resume text layouts into consistent JSON schemas.
+  * *Resolution*: Designed a multi-stage parser parsing text feeds via raw extraction blocks and verifying it against strict Pydantic models during the OpenAI prompt evaluation stage.
 
 #### 🛸 [drone-binary-terrain-mapping](https://github.com/Rishabh02104/drone-binary-terrain-mapping)
-*CNN patch terrain classification and road metrics estimation system*
+*CNN patch terrain classifier and road metrics estimation system*
 * **Stack**: `Python` • `TensorFlow` • `OpenCV` • `PyTorch`
-* **Features**:
-  * Binary terrain classification from aerial footage patches.
-  * Measures road dimensions, angles, and width offsets using customized OpenCV image segmentations.
-  * Built with multi-threaded video stream parsers for real-time model analysis.
+* **Key Feature**: Real-time road dimension, angle, and width metric calculations from aerial video streams.
+* **🔧 Technical Challenge & Resolution**:
+  * *Challenge*: Inconsistent scale factors and coordinate metrics of drone GLTF meshes causing viewport clipping on mount.
+  * *Resolution*: Built a custom bounding-box normalizer script that calculates coordinates and scales the model matrix dynamically on load to a standard `1.4` size.
 
 #### 🔐 [secure-voting](https://github.com/Rishabh02104/secure-voting)
-*Visual cryptography-based voting system concept*
+*Visual cryptography-based secret-sharing voting system concept*
 * **Stack**: `JavaScript` • `HTML5 Canvas` • `CSS3`
-* **Features**:
-  * Encrypts ballot selections by splitting the graphical vote into visual noise shares.
-  * Reconstructs the vote overlay physically/mechanically by aligning transparency grids.
-  * Operates without cryptographic keys, databases, or electronic decryption algorithms.
+* **Key Feature**: Mechanical decryption of votes using aligned overlay transparency grids.
+* **🔧 Technical Challenge & Resolution**:
+  * *Challenge*: Perfect pixel alignment of transparency shares on variable DPI screens.
+  * *Resolution*: Developed a responsive canvas rendering system that locks coordinates to absolute device pixels, preventing layout stretching and blur.
 
 ---
 
-### 🏗️ Architecture Showcase — AI Job Agent
+### 🏗️ Architecture Showcases
 
-How the autonomous agentic application system coordinates pipelines:
-
+#### 1. AI Job Agent Application Pipeline
 ```mermaid
 graph TD
   A[Job Listings / Boards] -->|Playwright Scraper| B[Raw Job Feed]
@@ -120,6 +122,15 @@ graph TD
   D -->|No| F[Discard / Archive]
   E -->|Webhook API| G[Supabase DB / Logs]
   G -->|WebSocket Sync| H[Next.js Kanban Dashboard]
+```
+
+#### 2. RishavendraOS Depth Masking Pipeline (WebGL)
+```mermaid
+graph LR
+  A[Depth Pre-Pass Brain] -->|colorWrite: false / depthWrite: true| B(Depth Buffer Shield)
+  C[Holographic Brain Mesh] -->|Standard Render| D(Composite Scene)
+  E[Matrix Background Plane] -->|depthTest: true| D
+  B -.->|Masks Out Rain| E
 ```
 
 ---
@@ -177,24 +188,24 @@ graph TD
 
 ---
 
-### 🎓 Certifications
+### 🎓 Certifications & Workshops
 
-| Certification | Issuer |
-| :--- | :--- |
-| **Hugging Face Agent Course** | Hugging Face |
-| **Cybersecurity Hands-on Workshop** | NIT Goa & NFSU Goa |
-| **Google Cloud Cybersecurity Certificate** | Google Cloud |
-| **Google Cloud Computing Foundations** | Google Cloud |
-| **Python Essentials 1** | Cisco |
-| **Cyber Threat Management** | Cisco |
+| Badge | Certification / Program | Issuer |
+| :---: | :--- | :--- |
+| 🤖 | **Hugging Face Agent Course** | Hugging Face |
+| 🛡️ | **Cybersecurity Hands-on Workshop** | NIT Goa & NFSU Goa |
+| ☁️ | **Google Cloud Cybersecurity Certificate** | Google Cloud |
+| ☁️ | **Google Cloud Computing Foundations** | Google Cloud |
+| 🐍 | **Python Essentials 1** | Cisco |
+| 🔒 | **Cyber Threat Management** | Cisco |
 
 ---
 
 ### 📬 Let's Connect
 
-* **Portfolio**: **[creative-engineer.dev](https://rishavendra-os.vercel.app)**
-* **LinkedIn**: **[Rishavendra Sharma](https://www.linkedin.com/in/rishavendra-sharma-94b8ba286/)**
-* **Email**: **[rishavendrasharma9353@gmail.com](mailto:rishavendrasharma9353@gmail.com)**
+* 🌐 **Portfolio**: **[rishavendra-os.vercel.app](https://rishavendra-os.vercel.app)**
+* 💼 **LinkedIn**: **[Rishavendra Sharma](https://www.linkedin.com/in/rishavendra-sharma-94b8ba286/)**
+* 📧 **Email**: **[rishavendrasharma9353@gmail.com](mailto:rishavendrasharma9353@gmail.com)**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
