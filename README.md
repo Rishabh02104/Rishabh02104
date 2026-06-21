@@ -50,7 +50,7 @@
     <tr>
       <td style="padding: 8px; border: 1px solid #121a24; color: #ffffff;"><b>AI_Job_Agent</b></td>
       <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://github.com/Rishabh02104/AI_Job_Agent"><code>[ CODE_REPO ]</code></a></td>
-      <td style="padding: 8px; border: 1px solid #121a24; color: #5a6675;"><code>[ N/A ]</code></td>
+      <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://frontend-two-sigma-88.vercel.app/"><code>[ LIVE_HOST ]</code></a></td>
     </tr>
     <tr>
       <td style="padding: 8px; border: 1px solid #121a24; color: #ffffff;"><b>RishavendraOS</b></td>
