@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="800" height="360">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Orbitron:wght@400;700&amp;display=swap');
+      
+      .bg {
+        fill: #06070a;
+      }
+      .panel-border {
+        stroke: #121a24;
+        stroke-width: 1.5;
+        fill: none;
+      }
+      .timeline-axis {
+        stroke: #121a24;
+        stroke-width: 2;
+        fill: none;
+      }
+      .timeline-active {
+        stroke: #00E5FF;
+        stroke-width: 2;
+        fill: none;
+        stroke-opacity: 0.8;
+        filter: url(#glow-cyan);
+      }
+      .trace-branch {
+        stroke: #121a24;
+        stroke-width: 1;
+        fill: none;
+      }
+      .trace-active {
+        stroke: #00FF66;
+        stroke-width: 1;
+        fill: none;
+        stroke-opacity: 0.6;
+      }
+      .node-cyan {
+        fill: #00E5FF;
+        filter: url(#glow-cyan);
+      }
+      .node-green {
+        fill: #00FF66;
+        filter: url(#glow-green);
+      }
+      
+      /* Typography */
+      .text-epoch {
+        font-family: 'Orbitron', monospace;
+        font-size: 13px;
+        fill: #00E5FF;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+      }
+      
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 0.9; }
+      }
+      .animated-pulse {
+        animation: pulse 2.5s infinite ease-in-out;
+      }
+    </style>
+    
+    <!-- Glow Filters -->
+    <filter id="glow-cyan" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glow-green" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="800" height="360" rx="8" class="bg" />
+  
+  <!-- Outer Framing -->
+  <rect x="15" y="15" width="770" height="330" rx="6" class="panel-border" />
+  
+  <!-- Timeline Vertical Core Axis -->
+  <line x1="110" y1="25" x2="110" y2="335" class="timeline-axis" />
+  <line x1="110" y1="50" x2="110" y2="290" class="timeline-active" />
+  
+  <!-- ======================================================== -->
+  <!-- NODE 01: 2024.01 -->
+  <!-- ======================================================== -->
+  <g>
+    <!-- Circuit branch -->
+    <path d="M 110,50 L 140,50 L 150,60" class="trace-branch" />
+    <circle cx="110" cy="50" r="5" class="node-cyan" />
+    <circle cx="110" cy="50" r="10" fill="none" stroke="#00E5FF" stroke-opacity="0.3" stroke-width="1" class="animated-pulse" />
+    
+    <!-- Left Epoch Label -->
+    <text x="95" y="54" class="text-epoch" text-anchor="end">2024.01</text>
+    
+    <!-- Right Content Card -->
+    <foreignObject x="155" y="32" width="600" height="60">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 11.5px; color: #c0caf5; line-height: 1.4;">
+        <span style="color: #ffffff; font-weight: bold; font-family: 'Orbitron', monospace;">// SYSTEM INITIALIZATION</span><br/>
+        <span style="color: #00E5FF;">▹</span> B.Tech CSE track initialized. Established base algorithmic foundations in Python &amp; JS.<br/>
+        <span style="color: #00E5FF;">▹</span> Engineered secure visual shares &amp; canvas grid overlap decrypter prototypes (Secure Voting).
+      </div>
+    </foreignObject>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- NODE 02: 2025.01 -->
+  <!-- ======================================================== -->
+  <g>
+    <!-- Circuit branch -->
+    <path d="M 110,130 L 140,130 L 150,140" class="trace-active" />
+    <circle cx="110" cy="130" r="5" class="node-green" />
+    
+    <!-- Left Epoch Label -->
+    <text x="95" y="134" class="text-epoch" fill="#00FF66" text-anchor="end">2025.01</text>
+    
+    <!-- Right Content Card -->
+    <foreignObject x="155" y="112" width="600" height="60">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 11.5px; color: #c0caf5; line-height: 1.4;">
+        <span style="color: #ffffff; font-weight: bold; font-family: 'Orbitron', monospace;">// NEURAL NETWORKS &amp; COMPUTER VISION</span><br/>
+        <span style="color: #00FF66;">▹</span> Trained convolutional neural network (CNN) patch models on drone video streaming feeds.<br/>
+        <span style="color: #00FF66;">▹</span> Built road width &amp; curvature angle estimation algorithms running OpenCV multi-threaded buffers.
+      </div>
+    </foreignObject>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- NODE 03: 2025.08 -->
+  <!-- ======================================================== -->
+  <g>
+    <!-- Circuit branch -->
+    <path d="M 110,210 L 140,210 L 150,220" class="trace-branch" />
+    <circle cx="110" cy="210" r="5" class="node-cyan" />
+    
+    <!-- Left Epoch Label -->
+    <text x="95" y="214" class="text-epoch" text-anchor="end">2025.08</text>
+    
+    <!-- Right Content Card -->
+    <foreignObject x="155" y="192" width="600" height="60">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 11.5px; color: #c0caf5; line-height: 1.4;">
+        <span style="color: #ffffff; font-weight: bold; font-family: 'Orbitron', monospace;">// AUTONOMOUS AGENT ORCHESTRATION</span><br/>
+        <span style="color: #00E5FF;">▹</span> Developed async FastAPI backends integrated with LangChain and Supabase database logging.<br/>
+        <span style="color: #00E5FF;">▹</span> Programmed Playwright listings crawler with rotated viewports, sessions, and automated form fills.
+      </div>
+    </foreignObject>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- NODE 04: 2026.01 -->
+  <!-- ======================================================== -->
+  <g>
+    <!-- Circuit branch -->
+    <path d="M 110,290 L 140,290 L 150,300" class="trace-active" />
+    <circle cx="110" cy="290" r="5" class="node-green" />
+    <circle cx="110" cy="290" r="10" fill="none" stroke="#00FF66" stroke-opacity="0.3" stroke-width="1" class="animated-pulse" />
+    
+    <!-- Left Epoch Label -->
+    <text x="95" y="294" class="text-epoch" fill="#00FF66" text-anchor="end">2026.01</text>
+    
+    <!-- Right Content Card -->
+    <foreignObject x="155" y="272" width="600" height="60">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 11.5px; color: #c0caf5; line-height: 1.4;">
+        <span style="color: #ffffff; font-weight: bold; font-family: 'Orbitron', monospace;">// WEBGL GRAPHICS CORE &amp; SHADERS (CURRENT EPOCH)</span><br/>
+        <span style="color: #00FF66;">▹</span> Architecting RishavendraOS — a custom WebGL 3D Operating System portfolio utilizing Three.js synapses.<br/>
+        <span style="color: #00FF66;">▹</span> Writing custom GLSL depth buffer shader passes to prevent background character bleeding.
+      </div>
+    </foreignObject>
+  </g>
+</svg>

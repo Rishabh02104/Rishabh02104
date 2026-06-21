@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/badge/TARGET-SDE_1_ROLES-FF6B35?style=flat-square" alt="Target" />
 </p>
 
+<div align="center">
+  <a href="https://rishavendra-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=00D9FF" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rishavendra-sharma-94b8ba286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rishavendrasharma9353@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/Rishabh02104"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</div>
+
 ---
 
 ## 🛠️ Diagnostics &amp; System Specifications
@@ -33,22 +40,9 @@
 
 ## 🚀 System Timeline (Development Journey)
 
-<div style="border-left: 2px solid #00E5FF; padding-left: 15px; margin-left: 10px; font-family: monospace;">
-  <p><b>[ 2024.01 // SYSTEM INITIALIZATION ]</b><br/>
-  ▹ B.Tech CSE track initialized. Established base algorithmic foundations in Python, JavaScript, and shell scripting.<br/>
-  ▹ Engineered secure visual shares and canvas grid overlap decrypter prototypes (Secure Voting cryptography concept).</p>
-  
-  <p><b>[ 2025.01 // NEURAL NETWORKS & COMPUTER VISION ]</b><br/>
-  ▹ Trained convolutional neural network (CNN) patch models on drone video streaming feeds.<br/>
-  ▹ Built road width and curvature angle estimation algorithms running OpenCV multi-threaded frame buffers.</p>
-  
-  <p><b>[ 2025.08 // AUTONOMOUS AGENT ORCHESTRATION ]</b><br/>
-  ▹ Developed async FastAPI backends integrated with LangChain and Supabase database logging.<br/>
-  ▹ Programmed Playwright listings crawler with rotated viewports, persistent sessions, and automated web form submissions.</p>
-  
-  <p><b>[ 2026.01 // WEBGL GRAPHICS CORE & SHADERS (CURRENT EPOCH) ]</b><br/>
-  ▹ Architecting RishavendraOS — a custom WebGL 3D Operating System portfolio utilizing Three.js point-cloud synapses.<br/>
-  ▹ Writing custom GLSL depth buffer shader passes to prevent background character bleeding on transparent meshes.</p>
+<div align="center">
+  <!-- Custom visual SVG development timeline -->
+  <img src="./assets/timeline.svg" width="800" alt="System Timeline" />
 </div>
 
 ---
@@ -220,17 +214,6 @@ graph LR
 </div>
 
 ---
-
-## 📬 Handshake Module (Connect)
-
-<div align="center">
-  <a href="https://rishavendra-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=00D9FF" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rishavendra-sharma-94b8ba286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rishavendrasharma9353@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/Rishabh02104"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
-</div>
-
-<br/>
 
 ```bash
 [session_id]  :: rishavendrasharma9353@gmail.com
