@@ -1,63 +1,26 @@
-# 💻 [ Rishabh02104 // System Core ]
+# 🛰️ Rishabh02104 // Cybernetic Systems Directory
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=AI+Developer;WebGL+Engineer;Agentic+Systems+Builder;Full-Stack+Architect" alt="Typing SVG" />
+  <!-- Animated Typing SVG Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=SYS.CORE_handshake_established;Initializing+Rishavendra+Core;AI_Developer+%26+WebGL_Architect" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh02104&color=00e5ff&style=for-the-badge&label=SYSTEM+ACCESS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00E5FF?style=for-the-badge&logo=git&logoColor=black" alt="Open to Work" />
+  <img src="https://komarev.com/ghpvc/?username=Rishabh02104&amp;color=00e5ff&amp;style=flat-square&amp;label=CORE+ACCESS" alt="Core Access" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-00FF41?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/TARGET-SDE_1_ROLES-FF6B35?style=flat-square" alt="Target" />
 </p>
-
-<div align="center">
-  <code>[boot_log] :: Initializing neural graphics core... establishing secure handshake... connection ok.</code>
-</div>
 
 ---
 
-<div align="center">
-  <table style="border: 1px solid #00D9FF; background-color: #080808; font-family: monospace;">
-    <thead>
-      <tr>
-        <th colspan="2" style="color: #00D9FF; text-align: center;">💻 SYSTEM SPECIFICATIONS</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>👤 <b>Host</b></td>
-        <td><code>Rishavendra Sharma (Rishabh02104)</code></td>
-      </tr>
-      <tr>
-        <td>🎓 <b>Core</b></td>
-        <td><code>B.Tech Computer Science & Engineering (2026)</code></td>
-      </tr>
-      <tr>
-        <td>🐚 <b>Shell</b></td>
-        <td><code>zsh / bash / powershell</code></td>
-      </tr>
-      <tr>
-        <td>⏱️ <b>Uptime</b></td>
-        <td><code>Continuous learning & system optimization</code></td>
-      </tr>
-      <tr>
-        <td>⚙️ <b>Current Process</b></td>
-        <td><code>Agentic AI & Volumetric Renderers</code></td>
-      </tr>
-      <tr>
-        <td>🚀 <b>Status</b></td>
-        <td><img src="https://img.shields.io/badge/STATUS-Seeking%20SDE--1-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Status" /></td>
-      </tr>
-      <tr>
-        <td>🛠️ <b>Build</b></td>
-        <td><img src="https://img.shields.io/badge/CURRENT_BUILD-VoxFrame%20+%20AI__Job__Agent%20v2-FF6B35?style=for-the-badge" alt="Build" /></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+## 🛠️ Diagnostics &amp; System Specifications
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" alt="line" />
+  <!-- Custom High-Fidelity HUD Specs SVG -->
+  <img src="./assets/header.svg" width="800" alt="System Specifications" />
 </div>
+
+<br/>
 
 * 🔭 **Building AI-powered platforms** — focusing on agentic browser automations and real-time WebGL canvas integrations.
 * 🧠 **Specializing in Agentic AI pipelines, Computer Vision architectures, and 3D web rendering**.
@@ -68,96 +31,16 @@
 
 ---
 
-## 🚀 Active Project Modules
+## 📂 Active System Modules (Projects Blueprint)
 
-┌─[ MODULE: AI_Job_Agent ]──────────────────────────────┐
-│ CLASSIFICATION: Autonomous Agentic Automation         │
-│ STATUS: Active                                        │
-│ STACK: FastAPI, LangChain, Next.js, Supabase, Python  │
-├──────────────────────────────────────────────────────┤
-│ CORE FUNCTIONS:                                      │
-│  ▹ Match-scores CVs against listings with embeddings │
-│  ▹ Playwright listings crawler with proxy rotations  │
-│  ▹ Automates form filling & browser submissions      │
-├──────────────────────────────────────────────────────┤
-│ ENGINEERING CHALLENGE → FIX                         │
-│  🔧 Playwright CAPTCHAs & Throttling                 │
-│  → Rotated headers, random viewports & Supabase logs │
-├──────────────────────────────────────────────────────┤
-│ [View Repo](https://github.com/Rishabh02104/AI_Job_Agent) • [Live Demo](https://github.com/Rishabh02104/AI_Job_Agent) │
-└──────────────────────────────────────────────────────┘
-
-┌─[ MODULE: RishavendraOS ]─────────────────────────────┐
-│ CLASSIFICATION: WebGL Interactive OS                  │
-│ STATUS: Stable                                        │
-│ STACK: Next.js, Three.js, Framer Motion, Javascript   │
-├──────────────────────────────────────────────────────┤
-│ CORE FUNCTIONS:                                      │
-│  ▹ 3D point-cloud brain synapse navigation system    │
-│  ▹ Depth pre-pass masks prevent Matrix rain background │
-│  ▹ Fluid camera lookAt LERPs driven by GSAP physics  │
-├──────────────────────────────────────────────────────┤
-│ ENGINEERING CHALLENGE → FIX                         │
-│  🔧 Matrix text bleeding through transparent brain   │
-│  → Double-pass depth buffer masking shader pre-pass  │
-├──────────────────────────────────────────────────────┤
-│ [View Repo](https://github.com/Rishabh02104/RishavendraOS) • [Live Demo](https://rishavendra-os.vercel.app) │
-└──────────────────────────────────────────────────────┘
-
-┌─[ MODULE: CareerForge_AI ]────────────────────────────┐
-│ CLASSIFICATION: AI Document Intelligence              │
-│ STATUS: Stable                                        │
-│ STACK: Next.js, TypeScript, Tailwind, OpenAI API      │
-├──────────────────────────────────────────────────────┤
-│ CORE FUNCTIONS:                                      │
-│  ▹ Cross-references CV content for ATS scoring       │
-│  ▹ Provides interactive cards with refactor guides   │
-│  ▹ Implements modular structured prompt layouts      │
-├──────────────────────────────────────────────────────┤
-│ ENGINEERING CHALLENGE → FIX                         │
-│  🔧 Parsing unstructured PDF text into strict JSON   │
-│  → Enforced Pydantic schema validation during LLM run│
-├──────────────────────────────────────────────────────┤
-│ [View Repo](https://github.com/Rishabh02104/Careerforge-ai) • [Live Demo](https://careerforge-ai-red.vercel.app/) │
-└──────────────────────────────────────────────────────┘
-
-┌─[ MODULE: drone-binary-terrain-mapping ]──────────────┐
-│ CLASSIFICATION: Computer Vision & Robotics            │
-│ STATUS: Stable                                        │
-│ STACK: Python, TensorFlow, OpenCV, PyTorch            │
-├──────────────────────────────────────────────────────┤
-│ CORE FUNCTIONS:                                      │
-│  ▹ Binary terrain patch classification on video feeds│
-│  ▹ Measures road widths and angles via OpenCV logic  │
-│  ▹ Async video thread processing pipeline            │
-├──────────────────────────────────────────────────────┤
-│ ENGINEERING CHALLENGE → FIX                         │
-│  🔧 Variable model scales causing viewport clipping  │
-│  → Bounding-box normalizer scales matrices on mount  │
-├──────────────────────────────────────────────────────┤
-│ [View Repo](https://github.com/Rishabh02104/drone-binary-terrain-mapping) • [Live Demo](https://github.com/Rishabh02104/drone-binary-terrain-mapping) │
-└──────────────────────────────────────────────────────┘
-
-┌─[ MODULE: secure-voting ]─────────────────────────────┐
-│ CLASSIFICATION: Cryptographic Security                │
-│ STATUS: Stable                                        │
-│ STACK: JavaScript, HTML5 Canvas, CSS3                 │
-├──────────────────────────────────────────────────────┤
-│ CORE FUNCTIONS:                                      │
-│  ▹ Encrypts vote ballots by splitting into noise shares│
-│  ▹ Reconstructs vote output mechanically on grids    │
-│  ▹ Requires zero database keys or digital decryption │
-├──────────────────────────────────────────────────────┤
-│ ENGINEERING CHALLENGE → FIX                         │
-│  🔧 High-DPI screen pixel shifts breaking alignment  │
-│  → Fixed pixel-ratio canvases locking coordinates    │
-├──────────────────────────────────────────────────────┤
-│ [View Repo](https://github.com/Rishabh02104/secure-voting) • [Live Demo](https://secure-voting-iota.vercel.app/) │
-└──────────────────────────────────────────────────────┘
+<div align="center">
+  <!-- Custom Systems Blueprint SVG mapping the 5 projects -->
+  <img src="./assets/projects.svg" width="800" alt="Projects Blueprint" />
+</div>
 
 ---
 
-## 🏗️ Core Architecture Showcases
+## 🏗️ Core Architecture Pipelines
 
 #### 1. AI Job Agent Application Pipeline
 ```mermaid
@@ -182,30 +65,18 @@ graph LR
 
 ---
 
+## 🛠️ Subsystem Technologies Matrix
+
 <div align="center">
+  <!-- Custom Motherboard Slot Tech Stack SVG -->
+  <img src="./assets/tech_stack.svg" width="800" alt="Tech Subsystems" />
+</div>
 
-**`[ FRONTEND ]`**
 <br/>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,framermotion,threejs&theme=dark" alt="Frontend Skills" />
 
-<br/><br/>
-
-**`[ BACKEND ]`**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,supabase,nodejs,postgresql&theme=dark" alt="Backend Skills" />
-
-<br/><br/>
-
-**`[ AI / ML ]`**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI / ML Skills" />
-
-<br/><br/>
-
-**`[ TOOLING ]`**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel&theme=dark" alt="Tooling Skills" />
-
+<div align="center">
+  <!-- Continuous Skillicons Matrix with ThreeJS added to remove gaps -->
+  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,python,fastapi,supabase,tensorflow,opencv,tailwind,git,vercel" alt="Skills Matrix" />
 </div>
 
 ---
@@ -213,28 +84,28 @@ graph LR
 ## 📈 System Metrics & Profile Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <table border="0" width="100%" style="border-collapse: collapse; border: none;">
+    <tr style="border: none; background: transparent;">
+      <td width="50%" align="center" style="border: none; background: transparent; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&amp;show_icons=true&amp;bg_color=06070a&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=1a1b26&color=70a5fd&line=70a5fd&point=ff9e64&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+      <td width="50%" align="center" style="border: none; background: transparent; padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&amp;layout=compact&amp;bg_color=06070a&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true" alt="Top Languages" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh02104&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats" />
+    <tr style="border: none; background: transparent;">
+      <td colspan="2" align="center" style="border: none; background: transparent; padding: 5px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&amp;bg_color=06070a&amp;color=00E5FF&amp;line=00E5FF&amp;point=00FF66&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub Activity Graph" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=Rishabh02104&theme=matrix&margin-w=15&column=7" width="100%" alt="Trophies" />
+    <tr style="border: none; background: transparent;">
+      <td colspan="2" align="center" style="border: none; background: transparent; padding: 5px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh02104&amp;theme=tokyonight&amp;background=06070a&amp;hide_border=true" width="100%" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr style="border: none; background: transparent;">
+      <td colspan="2" align="center" style="border: none; background: transparent; padding: 5px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=Rishabh02104&amp;theme=matrix&amp;margin-w=15&amp;column=7&amp;background=06070a" width="100%" alt="Trophies" />
       </td>
     </tr>
   </table>
@@ -250,26 +121,26 @@ graph LR
 
 ---
 
-## 🛠️ Currently Building (WIP Modules)
+## 🛠️ WIP Modules (Current Builds)
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
+  <table width="100%" style="border-collapse: collapse; border: none; font-family: monospace;">
+    <tr style="border: none; background: transparent;">
+      <td align="center" width="33%" style="border: none; background: transparent; padding: 10px;">
         <b><code>VoxFrame</code></b><br/>
-        <img src="https://geps.dev/progress/80?dangerColor=ff0000&warningColor=ff9900&successColor=00ff41" alt="VoxFrame Progress" /><br/>
+        <img src="https://geps.dev/progress/80?dangerColor=ff0000&amp;warningColor=ff9900&amp;successColor=00ff41" alt="VoxFrame Progress" /><br/>
         <img src="https://img.shields.io/badge/PROGRESS-80%25-00ff41?style=flat-square" alt="80%" /><br/>
         <i>Gemini Vision subtitle engine</i>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" style="border: none; background: transparent; padding: 10px;">
         <b><code>AI_Job_Agent</code></b><br/>
-        <img src="https://geps.dev/progress/60?dangerColor=ff0000&warningColor=ff9900&successColor=00ff41" alt="AI Job Agent Progress" /><br/>
+        <img src="https://geps.dev/progress/60?dangerColor=ff0000&amp;warningColor=ff9900&amp;successColor=00ff41" alt="AI Job Agent Progress" /><br/>
         <img src="https://img.shields.io/badge/PROGRESS-60%25-00ff41?style=flat-square" alt="60%" /><br/>
         <i>CAPTCHA bypass + resume tailoring</i>
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="33%" style="border: none; background: transparent; padding: 10px;">
         <b><code>RishavendraOS</code></b><br/>
-        <img src="https://geps.dev/progress/90?dangerColor=ff0000&warningColor=ff9900&successColor=00ff41" alt="RishavendraOS Progress" /><br/>
+        <img src="https://geps.dev/progress/90?dangerColor=ff0000&amp;warningColor=ff9900&amp;successColor=00ff41" alt="RishavendraOS Progress" /><br/>
         <img src="https://img.shields.io/badge/PROGRESS-90%25-00ff41?style=flat-square" alt="90%" /><br/>
         <i>Shader optimization pass</i>
       </td>
@@ -279,13 +150,13 @@ graph LR
 
 ---
 
-## 📬 Connect Module
+## 📬 Handshake Module (Connect)
 
 <div align="center">
-  <a href="https://rishavendra-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rishavendra-sharma-94b8ba286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:rishavendrasharma9353@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/Rishabh02104"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://rishavendra-os.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=00D9FF" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rishavendra-sharma-94b8ba286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rishavendrasharma9353@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/Rishabh02104"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br/>
@@ -293,8 +164,11 @@ graph LR
 ```bash
 [session_id]  :: rishavendrasharma9353@gmail.com
 [port]        :: 8080 — handshake ready
-[uptime]      :: building since 2022 — no signs of stopping
+[uptime]      :: building since 2024 — no signs of stopping
 [last_commit] :: pushing to main...
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&fontSize=16" width="100%" alt="Footer Wave" />
+<div align="center">
+  <!-- Custom Animated Telemetry Diagnostics Footer -->
+  <img src="./assets/footer.svg" width="800" alt="Telemetry Footer" />
+</div>
