@@ -154,23 +154,23 @@ graph LR
 ## 📈 System Metrics & Profile Analytics
 
 <div align="center">
-  <table border="0" width="100%" style="border-collapse: collapse; border: none;">
+  <table border="0" width="100%" style="border-collapse: collapse; border: none; background: transparent;">
     <tr style="border: none; background: transparent;">
-      <td width="50%" align="center" style="border: none; background: transparent; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&amp;show_icons=true&amp;bg_color=06070a&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" />
+      <td width="55%" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&amp;show_icons=true&amp;bg_color=090a0f&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center" style="border: none; background: transparent; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&amp;layout=compact&amp;bg_color=06070a&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td colspan="2" align="center" style="border: none; background: transparent; padding: 5px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&amp;bg_color=06070a&amp;color=00E5FF&amp;line=00E5FF&amp;point=00FF66&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub Activity Graph" />
+      <td width="45%" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&amp;layout=donut&amp;bg_color=090a0f&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true" alt="Top Languages" />
       </td>
     </tr>
     <tr style="border: none; background: transparent;">
-      <td colspan="2" align="center" style="border: none; background: transparent; padding: 5px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh02104&amp;theme=tokyonight&amp;background=06070a&amp;hide_border=true" width="100%" alt="Streak Stats" />
+      <td colspan="2" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&amp;bg_color=090a0f&amp;color=00E5FF&amp;line=00E5FF&amp;point=00FF66&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub Activity Graph" />
+      </td>
+    </tr>
+    <tr style="border: none; background: transparent;">
+      <td colspan="2" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh02104&amp;theme=tokyonight&amp;background=090a0f&amp;hide_border=true" width="100%" alt="Streak Stats" />
       </td>
     </tr>
   </table>
