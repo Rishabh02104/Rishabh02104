@@ -141,7 +141,7 @@
     </g>
 
     <!-- Right specifications content (HTML foreignObject wrapping) -->
-    <foreignObject x="200" y="36" width="500" height="145">
+    <foreignObject x="200" y="36" width="500" height="170">
       <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
         <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">Autonomous Agentic Automation</span></div>
         <div style="margin-bottom: 4px;"><span style="color: #5a6675;">STACK MATRIX   :</span> <span style="color: #70a5fd;">FastAPI, LangChain, Next.js, Supabase, Python, Playwright</span></div>
@@ -193,7 +193,7 @@
     </g>
 
     <!-- Right specifications content (HTML foreignObject wrapping) -->
-    <foreignObject x="200" y="36" width="500" height="145">
+    <foreignObject x="200" y="36" width="500" height="170">
       <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
         <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">WebGL Interactive OS Portfolio</span></div>
         <div style="margin-bottom: 4px;"><span style="color: #5a6675;">STACK MATRIX   :</span> <span style="color: #70a5fd;">Next.js, Three.js, Framer Motion, Javascript, GSAP</span></div>
@@ -246,7 +246,7 @@
     </g>
 
     <!-- Right specifications content (HTML foreignObject wrapping) -->
-    <foreignObject x="200" y="36" width="500" height="145">
+    <foreignObject x="200" y="36" width="500" height="170">
       <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
         <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">AI Document Intelligence</span></div>
         <div style="margin-bottom: 4px;"><span style="color: #70a5fd;">STACK MATRIX   :</span> <span style="color: #70a5fd;">Next.js, TypeScript, Tailwind, OpenAI API</span></div>
@@ -301,7 +301,7 @@
     </g>
 
     <!-- Right specifications content (HTML foreignObject wrapping) -->
-    <foreignObject x="200" y="36" width="500" height="145">
+    <foreignObject x="200" y="36" width="500" height="170">
       <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
         <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">Computer Vision &amp; Robotics</span></div>
         <div style="margin-bottom: 4px;"><span style="color: #70a5fd;">STACK MATRIX   :</span> <span style="color: #70a5fd;">Python, TensorFlow, OpenCV, PyTorch</span></div>
@@ -361,7 +361,7 @@
     </g>
 
     <!-- Right specifications content (HTML foreignObject wrapping) -->
-    <foreignObject x="200" y="36" width="500" height="145">
+    <foreignObject x="200" y="36" width="500" height="170">
       <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
         <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">Cryptographic Security</span></div>
         <div style="margin-bottom: 4px;"><span style="color: #70a5fd;">STACK MATRIX   :</span> <span style="color: #70a5fd;">JavaScript, HTML5 Canvas, CSS3</span></div>

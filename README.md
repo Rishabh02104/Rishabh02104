@@ -81,23 +81,40 @@
 
 #### 1. AI Job Agent Application Pipeline
 ```mermaid
-graph TD
-  A[Job Listings / Boards] -->|Playwright Scraper| B[Raw Job Feed]
-  B -->|LangChain Parser| C[Structured JSON Model]
-  C -->|LLM Evaluator| D{Score Match > 80%?}
-  D -->|Yes| E[Browser Form Submitter]
-  D -->|No| F[Discard / Archive]
-  E -->|Webhook API| G[Supabase DB / Logs]
-  G -->|WebSocket Sync| H[Next.js Kanban Dashboard]
+graph LR
+  Board[Job Board] -->|Scraper| Feed[Raw Feed]
+  Feed -->|LangChain| JSON[JSON Schema]
+  JSON -->|LLM Evaluator| Score{Score > 80%?}
+  Score -->|Yes| Form[Auto-Submitter]
+  Score -->|No| Discard[Discard]
+  Form -->|Webhook| DB[Supabase]
+  DB -->|WS Sync| Dash[Dashboard]
 ```
 
 #### 2. RishavendraOS Depth Masking Pipeline (WebGL)
 ```mermaid
 graph LR
-  A[Depth Pre-Pass Brain] -->|colorWrite: false / depthWrite: true| B(Depth Buffer Shield)
-  C[Holographic Brain Mesh] -->|Standard Render| D(Composite Scene)
-  E[Matrix Background Plane] -->|depthTest: true| D
-  B -.->|Masks Out Rain| E
+  Pre[Pre-Pass Brain] -->|depthWrite| Shield(Depth Shield)
+  Brain[Holographic Brain] -->|Render| Comp(Composite)
+  Rain[Matrix Background] -->|depthTest| Comp
+  Shield -.->|Masks Out| Rain
+```
+
+#### 3. CareerForge AI Structured Parsing
+```mermaid
+graph LR
+  PDF[Raw PDF Resume] -->|Parser| Text[Raw Text]
+  Text -->|Pydantic Check| LLM[LLM Run]
+  LLM -->|JSON Schema| Score[ATS Score]
+  Score -->|Refactor| Cards[Feedback Cards]
+```
+
+#### 4. Secure Voting Share Cryptography
+```mermaid
+graph LR
+  Ballot[Vote Ballot] -->|Split| ShareA[Share A: Noise]
+  Ballot -->|Split| ShareB[Share B: Noise]
+  ShareA & ShareB -->|Align Grids| Result[Visual Decrypt]
 ```
 
 ---
