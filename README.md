@@ -141,7 +141,7 @@ graph LR
   <table border="0" width="100%" style="border-collapse: collapse; border: none;">
     <tr style="border: none; background: transparent;">
       <td width="50%" align="center" style="border: none; background: transparent; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&amp;show_icons=true&amp;bg_color=06070a&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&amp;show_icons=true&amp;bg_color=06070a&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center" style="border: none; background: transparent; padding: 5px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&amp;layout=compact&amp;bg_color=06070a&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true" alt="Top Languages" />
@@ -157,11 +157,6 @@ graph LR
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh02104&amp;theme=tokyonight&amp;background=06070a&amp;hide_border=true" width="100%" alt="Streak Stats" />
       </td>
     </tr>
-    <tr style="border: none; background: transparent;">
-      <td colspan="2" align="center" style="border: none; background: transparent; padding: 5px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=Rishabh02104&amp;theme=matrix&amp;margin-w=15&amp;column=7&amp;background=06070a" width="100%" alt="Trophies" />
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -170,7 +165,7 @@ graph LR
 ## 🐍 Contribution Grid
 
 <div align="center">
-  <img src="https://github.com/Rishabh02104/Rishabh02104/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
