@@ -157,20 +157,20 @@ graph LR
   <table border="0" width="100%" style="border-collapse: collapse; border: none; background: transparent;">
     <tr style="border: none; background: transparent;">
       <td width="55%" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&amp;show_icons=true&amp;bg_color=090a0f&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;cache_seconds=1800" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&amp;show_icons=true&amp;bg_color=090a0f&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;cache_seconds=1800&amp;v=2" alt="GitHub Stats" />
       </td>
       <td width="45%" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&amp;layout=donut&amp;bg_color=090a0f&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;cache_seconds=1800" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&amp;layout=donut&amp;bg_color=090a0f&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;cache_seconds=1800&amp;v=2" alt="Top Languages" />
       </td>
     </tr>
     <tr style="border: none; background: transparent;">
       <td colspan="2" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&amp;bg_color=090a0f&amp;color=00E5FF&amp;line=00E5FF&amp;point=00FF66&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&amp;bg_color=090a0f&amp;color=00E5FF&amp;line=00E5FF&amp;point=00FF66&amp;area=true&amp;hide_border=true&amp;v=2" width="100%" alt="GitHub Activity Graph" />
       </td>
     </tr>
     <tr style="border: none; background: transparent;">
       <td colspan="2" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh02104&amp;theme=tokyonight&amp;background=090a0f&amp;hide_border=true&amp;cache_seconds=1800" width="100%" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh02104&amp;theme=tokyonight&amp;background=090a0f&amp;hide_border=true&amp;cache_seconds=1800&amp;v=2" width="100%" alt="Streak Stats" />
       </td>
     </tr>
   </table>
@@ -181,7 +181,7 @@ graph LR
 ## 🐍 Contribution Grid
 
 <div align="center">
-  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="./assets/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution Snake" />
 </div>
 
 ---
