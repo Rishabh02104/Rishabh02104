@@ -31,6 +31,28 @@
 
 ---
 
+## 🚀 System Timeline (Development Journey)
+
+<div style="border-left: 2px solid #00E5FF; padding-left: 15px; margin-left: 10px; font-family: monospace;">
+  <p><b>[ 2024.01 // SYSTEM INITIALIZATION ]</b><br/>
+  ▹ B.Tech CSE track initialized. Established base algorithmic foundations in Python, JavaScript, and shell scripting.<br/>
+  ▹ Engineered secure visual shares and canvas grid overlap decrypter prototypes (Secure Voting cryptography concept).</p>
+  
+  <p><b>[ 2025.01 // NEURAL NETWORKS & COMPUTER VISION ]</b><br/>
+  ▹ Trained convolutional neural network (CNN) patch models on drone video streaming feeds.<br/>
+  ▹ Built road width and curvature angle estimation algorithms running OpenCV multi-threaded frame buffers.</p>
+  
+  <p><b>[ 2025.08 // AUTONOMOUS AGENT ORCHESTRATION ]</b><br/>
+  ▹ Developed async FastAPI backends integrated with LangChain and Supabase database logging.<br/>
+  ▹ Programmed Playwright listings crawler with rotated viewports, persistent sessions, and automated web form submissions.</p>
+  
+  <p><b>[ 2026.01 // WEBGL GRAPHICS CORE & SHADERS (CURRENT EPOCH) ]</b><br/>
+  ▹ Architecting RishavendraOS — a custom WebGL 3D Operating System portfolio utilizing Three.js point-cloud synapses.<br/>
+  ▹ Writing custom GLSL depth buffer shader passes to prevent background character bleeding on transparent meshes.</p>
+</div>
+
+---
+
 ## 📂 Active System Modules (Projects Blueprint)
 
 <div align="center">
@@ -165,7 +187,7 @@ graph LR
 ## 🐍 Contribution Grid
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
