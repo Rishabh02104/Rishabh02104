@@ -226,3 +226,5 @@ graph LR
   <!-- Custom Animated Telemetry Diagnostics Footer -->
   <img src="./assets/footer.svg" width="800" alt="Telemetry Footer" />
 </div>
+
+<!-- sys.trigger: force snake update -->
