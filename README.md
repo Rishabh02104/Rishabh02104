@@ -1,7 +1,7 @@
 # 💻 [ Rishabh02104 // System Core ]
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Accessing+System+Core...;Loading+RishavendraOS+v2.5.0...;AI+Developer+%26+WebGL+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Accessing+System+Core...;Initializing+Rishabh02104+Profile...;AI+Developer+%26+WebGL+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
