@@ -26,14 +26,6 @@
         fill: #00E5FF;
         filter: url(#glow-cyan);
       }
-      .node-stable {
-        fill: #00FF66;
-        filter: url(#glow-green);
-      }
-      .node-orange {
-        fill: #ff9e64;
-        filter: url(#glow-orange);
-      }
       
       /* Typography */
       .text-header {
@@ -42,35 +34,6 @@
         fill: #00E5FF;
         font-weight: 700;
         letter-spacing: 1px;
-      }
-      .text-title {
-        font-family: 'Orbitron', monospace;
-        font-size: 15px;
-        fill: #ffffff;
-        font-weight: 700;
-      }
-      .text-label {
-        font-family: 'Share Tech Mono', monospace;
-        font-size: 12px;
-        fill: #5a6675;
-      }
-      .text-value {
-        font-family: 'Share Tech Mono', monospace;
-        font-size: 12px;
-        fill: #ffffff;
-      }
-      .text-desc {
-        font-family: 'Share Tech Mono', monospace;
-        font-size: 12px;
-        fill: #c0caf5;
-      }
-      .text-challenge {
-        fill: #ff9e64;
-        font-weight: bold;
-      }
-      .text-fix {
-        fill: #00FF66;
-        font-weight: bold;
       }
       
       /* Animation definitions */
@@ -110,13 +73,6 @@
       </feMerge>
     </filter>
     <filter id="glow-green" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-    <filter id="glow-orange" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="3" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
@@ -184,28 +140,23 @@
       <text x="90" y="121" font-family="'Share Tech Mono', monospace" font-size="8" fill="#00FF66" text-anchor="middle">Form Submitter</text>
     </g>
 
-    <!-- Right specifications content -->
-    <g transform="translate(200, 40)">
-      <text x="0" y="12" class="text-label">CLASSIFICATION :</text>
-      <text x="120" y="12" class="text-value">Autonomous Agentic Automation</text>
-      
-      <text x="0" y="30" class="text-label">STACK MATRIX   :</text>
-      <text x="120" y="30" class="text-value" fill="#70a5fd">FastAPI, LangChain, Next.js, Supabase, Python, Playwright</text>
-      
-      <!-- Core Pipeline list -->
-      <text x="0" y="52" class="text-label">CORE FUNCTIONS :</text>
-      <text x="120" y="52" class="text-desc">▹ Match-scores CVs against listings using vector embeddings.</text>
-      <text x="120" y="68" class="text-desc">▹ Crawls job listings with Playwright and proxy rotation.</text>
-      <text x="120" y="84" class="text-desc">▹ Automates form filling &amp; browser-driven applications.</text>
-      
-      <!-- Diagnostics -->
-      <text x="0" y="110" class="text-label">CHALLENGE // FIX:</text>
-      <text x="120" y="110" class="text-desc"><tspan class="text-challenge">🔧 Playwright CAPTCHAs &amp; Throttling</tspan> → <tspan class="text-fix">Rotated headers &amp; random viewports</tspan></text>
-      
-      <!-- Code Links -->
-      <rect x="120" y="122" width="105" height="18" fill="#0f141c" stroke="#1f2d3f" rx="3" />
-      <text x="172" y="135" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00E5FF" text-anchor="middle">View Repository</text>
-    </g>
+    <!-- Right specifications content (HTML foreignObject wrapping) -->
+    <foreignObject x="200" y="36" width="500" height="145">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
+        <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">Autonomous Agentic Automation</span></div>
+        <div style="margin-bottom: 4px;"><span style="color: #5a6675;">STACK MATRIX   :</span> <span style="color: #70a5fd;">FastAPI, LangChain, Next.js, Supabase, Python, Playwright</span></div>
+        <div style="margin-bottom: 4px;">
+          <span style="color: #5a6675;">CORE FUNCTIONS :</span><br/>
+          <span style="color: #00E5FF;">▹</span> Match-scores CVs against listings with embeddings.<br/>
+          <span style="color: #00E5FF;">▹</span> Playwright listings crawler with proxy rotations.<br/>
+          <span style="color: #00E5FF;">▹</span> Automates form filling &amp; browser submissions.
+        </div>
+        <div>
+          <span style="color: #ff9e64; font-weight: bold;">🔧 CHALLENGE // FIX:</span><br/>
+          <span style="color: #ffffff;">Playwright CAPTCHAs &amp; Throttling</span> <span style="color: #00FF66;">➔ Rotated headers, random viewports &amp; Supabase logs</span>
+        </div>
+      </div>
+    </foreignObject>
   </g>
 
   <!-- ======================================================== -->
@@ -213,7 +164,7 @@
   <!-- ======================================================== -->
   <g transform="translate(60, 260)">
     <rect x="0" y="0" width="710" height="26" fill="#0d1117" rx="3" />
-    <text x="10" y="17" class="text-header">┌─[ MODULE 02: RISHAVENDRA_OS ]</text>
+    <text x="10" y="17" class="text-header">┌─[ MODULE 02: RishavendraOS ]</text>
     <text x="700" y="17" class="text-header" text-anchor="end">STATUS: STABLE</text>
     
     <!-- Left graphic representation (3D Brain Synapse Radar) -->
@@ -241,29 +192,23 @@
       <circle cx="110" cy="85" r="5" fill="#00FF66" filter="url(#glow-green)" />
     </g>
 
-    <!-- Right specifications content -->
-    <g transform="translate(200, 40)">
-      <text x="0" y="12" class="text-label">CLASSIFICATION :</text>
-      <text x="120" y="12" class="text-value">WebGL Interactive OS Portfolio</text>
-      
-      <text x="0" y="30" class="text-label">STACK MATRIX   :</text>
-      <text x="120" y="30" class="text-value" fill="#70a5fd">Next.js, Three.js, React Three Fiber, GSAP, Framer Motion</text>
-      
-      <text x="0" y="52" class="text-label">CORE FUNCTIONS :</text>
-      <text x="120" y="52" class="text-desc">▹ 3D point-cloud brain synapse navigation control dashboard.</text>
-      <text x="120" y="68" class="text-desc">▹ Depth pre-pass masks prevent Matrix rain background bleed.</text>
-      <text x="120" y="84" class="text-desc">▹ Fluid camera lookAt LERPs driven by GSAP physics algorithms.</text>
-      
-      <text x="0" y="110" class="text-label">CHALLENGE // FIX:</text>
-      <text x="120" y="110" class="text-desc"><tspan class="text-challenge">🔧 Matrix text bleed through transparent mesh</tspan> → <tspan class="text-fix">Double-pass depth buffer masking</tspan></text>
-      
-      <!-- Code Links -->
-      <rect x="120" y="122" width="105" height="18" fill="#0f141c" stroke="#1f2d3f" rx="3" />
-      <text x="172" y="135" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00E5FF" text-anchor="middle">View Repository</text>
-
-      <rect x="235" y="122" width="105" height="18" fill="#0f141c" stroke="#1f2d3f" rx="3" />
-      <text x="287" y="135" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00FF66" text-anchor="middle">Live Deployment</text>
-    </g>
+    <!-- Right specifications content (HTML foreignObject wrapping) -->
+    <foreignObject x="200" y="36" width="500" height="145">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
+        <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">WebGL Interactive OS Portfolio</span></div>
+        <div style="margin-bottom: 4px;"><span style="color: #5a6675;">STACK MATRIX   :</span> <span style="color: #70a5fd;">Next.js, Three.js, Framer Motion, Javascript, GSAP</span></div>
+        <div style="margin-bottom: 4px;">
+          <span style="color: #5a6675;">CORE FUNCTIONS :</span><br/>
+          <span style="color: #00E5FF;">▹</span> 3D point-cloud brain synapse navigation system.<br/>
+          <span style="color: #00E5FF;">▹</span> Depth pre-pass masks prevent Matrix rain background.<br/>
+          <span style="color: #00E5FF;">▹</span> Fluid camera lookAt LERPs driven by GSAP physics.
+        </div>
+        <div>
+          <span style="color: #ff9e64; font-weight: bold;">🔧 CHALLENGE // FIX:</span><br/>
+          <span style="color: #ffffff;">Matrix text bleeding through transparent brain</span> <span style="color: #00FF66;">➔ Double-pass depth buffer masking shader pre-pass</span>
+        </div>
+      </div>
+    </foreignObject>
   </g>
 
   <!-- ======================================================== -->
@@ -271,7 +216,7 @@
   <!-- ======================================================== -->
   <g transform="translate(60, 490)">
     <rect x="0" y="0" width="710" height="26" fill="#0d1117" rx="3" />
-    <text x="10" y="17" class="text-header">┌─[ MODULE 03: CAREERFORGE_AI ]</text>
+    <text x="10" y="17" class="text-header">┌─[ MODULE 03: CareerForge_AI ]</text>
     <text x="700" y="17" class="text-header" text-anchor="end">STATUS: STABLE</text>
     
     <!-- Left graphic representation (PDF Text to Structured JSON Parser) -->
@@ -300,29 +245,23 @@
       <text x="137" y="114" font-family="'Share Tech Mono', monospace" font-size="8" fill="#00FF66" text-anchor="middle">Strict JSON</text>
     </g>
 
-    <!-- Right specifications content -->
-    <g transform="translate(200, 40)">
-      <text x="0" y="12" class="text-label">CLASSIFICATION :</text>
-      <text x="120" y="12" class="text-value">AI Document Intelligence</text>
-      
-      <text x="0" y="30" class="text-label">STACK MATRIX   :</text>
-      <text x="120" y="30" class="text-value" fill="#70a5fd">Next.js, TypeScript, OpenAI API, Tailwind, Python</text>
-      
-      <text x="0" y="52" class="text-label">CORE FUNCTIONS :</text>
-      <text x="120" y="52" class="text-desc">▹ Cross-references CV content for dynamic ATS formatting scans.</text>
-      <text x="120" y="68" class="text-desc">▹ Renders interactive cards with contextual code refactor guides.</text>
-      <text x="120" y="84" class="text-desc">▹ Enforces structured prompt templates for deterministic LLM replies.</text>
-      
-      <text x="0" y="110" class="text-label">CHALLENGE // FIX:</text>
-      <text x="120" y="110" class="text-desc"><tspan class="text-challenge">🔧 Parsing unstructured PDF to strict JSON</tspan> → <tspan class="text-fix">Pydantic schema validation during LLM runs</tspan></text>
-      
-      <!-- Code Links -->
-      <rect x="120" y="122" width="105" height="18" fill="#0f141c" stroke="#1f2d3f" rx="3" />
-      <text x="172" y="135" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00E5FF" text-anchor="middle">View Repository</text>
-
-      <rect x="235" y="122" width="105" height="18" fill="#0f141c" stroke="#1f2d3f" rx="3" />
-      <text x="287" y="135" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00FF66" text-anchor="middle">Live Deployment</text>
-    </g>
+    <!-- Right specifications content (HTML foreignObject wrapping) -->
+    <foreignObject x="200" y="36" width="500" height="145">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
+        <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">AI Document Intelligence</span></div>
+        <div style="margin-bottom: 4px;"><span style="color: #70a5fd;">STACK MATRIX   :</span> <span style="color: #70a5fd;">Next.js, TypeScript, Tailwind, OpenAI API</span></div>
+        <div style="margin-bottom: 4px;">
+          <span style="color: #5a6675;">CORE FUNCTIONS :</span><br/>
+          <span style="color: #00E5FF;">▹</span> Cross-references CV content for ATS scoring.<br/>
+          <span style="color: #00E5FF;">▹</span> Provides interactive cards with refactor guides.<br/>
+          <span style="color: #00E5FF;">▹</span> Implements modular structured prompt layouts.
+        </div>
+        <div>
+          <span style="color: #ff9e64; font-weight: bold;">🔧 CHALLENGE // FIX:</span><br/>
+          <span style="color: #ffffff;">Parsing unstructured PDF text into strict JSON</span> <span style="color: #00FF66;">➔ Enforced Pydantic schema validation during LLM run</span>
+        </div>
+      </div>
+    </foreignObject>
   </g>
 
   <!-- ======================================================== -->
@@ -361,26 +300,23 @@
       <line x1="120" y1="105" x2="135" y2="120" stroke="#253549" />
     </g>
 
-    <!-- Right specifications content -->
-    <g transform="translate(200, 40)">
-      <text x="0" y="12" class="text-label">CLASSIFICATION :</text>
-      <text x="120" y="12" class="text-value">Computer Vision &amp; Robotics</text>
-      
-      <text x="0" y="30" class="text-label">STACK MATRIX   :</text>
-      <text x="120" y="30" class="text-value" fill="#70a5fd">Python, TensorFlow, OpenCV, PyTorch, NumPy</text>
-      
-      <text x="0" y="52" class="text-label">CORE FUNCTIONS :</text>
-      <text x="120" y="52" class="text-desc">▹ Binary terrain patch classification models on video streaming feeds.</text>
-      <text x="120" y="68" class="text-desc">▹ Measures road grid widths and contour curves via OpenCV math.</text>
-      <text x="120" y="84" class="text-desc">▹ Implements async multi-threaded buffer pipeline capture loops.</text>
-      
-      <text x="0" y="110" class="text-label">CHALLENGE // FIX:</text>
-      <text x="120" y="110" class="text-desc"><tspan class="text-challenge">🔧 Scale variance causing canvas clipping</tspan> → <tspan class="text-fix">Dynamic bounding-box normalizers</tspan></text>
-      
-      <!-- Code Links -->
-      <rect x="120" y="122" width="105" height="18" fill="#0f141c" stroke="#1f2d3f" rx="3" />
-      <text x="172" y="135" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00E5FF" text-anchor="middle">View Repository</text>
-    </g>
+    <!-- Right specifications content (HTML foreignObject wrapping) -->
+    <foreignObject x="200" y="36" width="500" height="145">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
+        <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">Computer Vision &amp; Robotics</span></div>
+        <div style="margin-bottom: 4px;"><span style="color: #70a5fd;">STACK MATRIX   :</span> <span style="color: #70a5fd;">Python, TensorFlow, OpenCV, PyTorch</span></div>
+        <div style="margin-bottom: 4px;">
+          <span style="color: #5a6675;">CORE FUNCTIONS :</span><br/>
+          <span style="color: #00E5FF;">▹</span> Binary terrain patch classification on video feeds.<br/>
+          <span style="color: #00E5FF;">▹</span> Measures road widths and angles via OpenCV logic.<br/>
+          <span style="color: #00E5FF;">▹</span> Async video thread processing pipeline.
+        </div>
+        <div>
+          <span style="color: #ff9e64; font-weight: bold;">🔧 CHALLENGE // FIX:</span><br/>
+          <span style="color: #ffffff;">Variable model scales causing viewport clipping</span> <span style="color: #00FF66;">➔ Bounding-box normalizer scales matrices on mount</span>
+        </div>
+      </div>
+    </foreignObject>
   </g>
 
   <!-- ======================================================== -->
@@ -424,28 +360,22 @@
       </g>
     </g>
 
-    <!-- Right specifications content -->
-    <g transform="translate(200, 40)">
-      <text x="0" y="12" class="text-label">CLASSIFICATION :</text>
-      <text x="120" y="12" class="text-value">Cryptographic Security concept</text>
-      
-      <text x="0" y="30" class="text-label">STACK MATRIX   :</text>
-      <text x="120" y="30" class="text-value" fill="#70a5fd">JavaScript, HTML5 Canvas, Vanilla CSS3</text>
-      
-      <text x="0" y="52" class="text-label">CORE FUNCTIONS :</text>
-      <text x="120" y="52" class="text-desc">▹ Split vote ballot shares into separate visual noise images.</text>
-      <text x="120" y="68" class="text-desc">▹ Reconstructs vote output mechanically by aligning grids.</text>
-      <text x="120" y="84" class="text-desc">▹ Requires zero database encryption keys or computational decryption.</text>
-      
-      <text x="0" y="110" class="text-label">CHALLENGE // FIX:</text>
-      <text x="120" y="110" class="text-desc"><tspan class="text-challenge">🔧 High-DPI screens breaking alignment</tspan> → <tspan class="text-fix">Lock pixel ratio coordinates on mount</tspan></text>
-      
-      <!-- Code Links -->
-      <rect x="120" y="122" width="105" height="18" fill="#0f141c" stroke="#1f2d3f" rx="3" />
-      <text x="172" y="135" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00E5FF" text-anchor="middle">View Repository</text>
-
-      <rect x="235" y="122" width="105" height="18" fill="#0f141c" stroke="#1f2d3f" rx="3" />
-      <text x="287" y="135" font-family="'Share Tech Mono', monospace" font-size="10" fill="#00FF66" text-anchor="middle">Live Deployment</text>
-    </g>
+    <!-- Right specifications content (HTML foreignObject wrapping) -->
+    <foreignObject x="200" y="36" width="500" height="145">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: 'Share Tech Mono', monospace; font-size: 12px; color: #c0caf5; line-height: 1.45;">
+        <div style="margin-bottom: 2px;"><span style="color: #5a6675;">CLASSIFICATION :</span> <span style="color: #ffffff;">Cryptographic Security</span></div>
+        <div style="margin-bottom: 4px;"><span style="color: #70a5fd;">STACK MATRIX   :</span> <span style="color: #70a5fd;">JavaScript, HTML5 Canvas, CSS3</span></div>
+        <div style="margin-bottom: 4px;">
+          <span style="color: #5a6675;">CORE FUNCTIONS :</span><br/>
+          <span style="color: #00E5FF;">▹</span> Encrypts vote ballots by splitting into noise shares.<br/>
+          <span style="color: #00E5FF;">▹</span> Reconstructs vote output mechanically on grids.<br/>
+          <span style="color: #00E5FF;">▹</span> Requires zero database keys or digital decryption.
+        </div>
+        <div>
+          <span style="color: #ff9e64; font-weight: bold;">🔧 CHALLENGE // FIX:</span><br/>
+          <span style="color: #ffffff;">High-DPI screen pixel shifts breaking alignment</span> <span style="color: #00FF66;">➔ Fixed pixel-ratio canvases locking coordinates</span>
+        </div>
+      </div>
+    </foreignObject>
   </g>
 </svg>

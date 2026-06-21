@@ -38,6 +38,43 @@
   <img src="./assets/projects.svg" width="800" alt="Projects Blueprint" />
 </div>
 
+### 🔗 Module Access Portals (Quick Links)
+
+<div align="center">
+  <table width="800" style="border-collapse: collapse; border: 1px solid #121a24; font-family: monospace; background: #06070a; text-align: center;">
+    <tr style="background: #0d1117; color: #00E5FF;">
+      <th style="padding: 10px; border: 1px solid #121a24;">SYSTEM MODULE</th>
+      <th style="padding: 10px; border: 1px solid #121a24;">SOURCE PORTAL</th>
+      <th style="padding: 10px; border: 1px solid #121a24;">LIVE DEPLOYMENT</th>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #121a24; color: #ffffff;"><b>AI_Job_Agent</b></td>
+      <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://github.com/Rishabh02104/AI_Job_Agent"><code>[ CODE_REPO ]</code></a></td>
+      <td style="padding: 8px; border: 1px solid #121a24; color: #5a6675;"><code>[ N/A ]</code></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #121a24; color: #ffffff;"><b>RishavendraOS</b></td>
+      <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://github.com/Rishabh02104/RishavendraOS"><code>[ CODE_REPO ]</code></a></td>
+      <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://rishavendra-os.vercel.app"><code>[ LIVE_HOST ]</code></a></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #121a24; color: #ffffff;"><b>CareerForge_AI</b></td>
+      <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://github.com/Rishabh02104/Careerforge-ai"><code>[ CODE_REPO ]</code></a></td>
+      <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://careerforge-ai-red.vercel.app/"><code>[ LIVE_HOST ]</code></a></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #121a24; color: #ffffff;"><b>drone-binary-terrain-mapping</b></td>
+      <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://github.com/Rishabh02104/drone-binary-terrain-mapping"><code>[ CODE_REPO ]</code></a></td>
+      <td style="padding: 8px; border: 1px solid #121a24; color: #5a6675;"><code>[ N/A ]</code></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border: 1px solid #121a24; color: #ffffff;"><b>secure-voting</b></td>
+      <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://github.com/Rishabh02104/secure-voting"><code>[ CODE_REPO ]</code></a></td>
+      <td style="padding: 8px; border: 1px solid #121a24;"><a href="https://secure-voting-iota.vercel.app/"><code>[ LIVE_HOST ]</code></a></td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🏗️ Core Architecture Pipelines
