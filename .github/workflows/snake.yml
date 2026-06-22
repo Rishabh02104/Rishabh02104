@@ -1,41 +1,19 @@
 name: Generate Snake
-
 on:
   schedule:
-    # run every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
 jobs:
-  build:
+  snake:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
-          # github user name to read the contribution graph from
-          github_user_name: ${{ github.repository_owner }}
-          # list of files to generate
-          outputs: |
-            assets/github-contribution-grid-snake.svg
-            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: Rishabh02104
+          outputs: dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add assets/github-contribution-grid-snake.svg assets/github-contribution-grid-snake-dark.svg || true
-          git commit -m "chore: update contribution snake SVGs" || true
-          git push origin main || true
-
-
