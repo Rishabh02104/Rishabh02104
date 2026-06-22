@@ -156,21 +156,34 @@ graph LR
 <div align="center">
   <table border="0" width="100%" style="border-collapse: collapse; border: none; background: transparent;">
     <tr style="border: none; background: transparent;">
-      <td width="55%" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&amp;show_icons=true&amp;bg_color=090a0f&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;cache_seconds=1800&amp;v=2" alt="GitHub Stats" />
+      <td width="55%" align="left" style="border: 1px solid #121a24; background: #090a0f; padding: 16px; border-radius: 8px; font-family: monospace; color: #ffffff; vertical-align: top;">
+        <div style="color: #00E5FF; font-weight: bold; margin-bottom: 8px; font-size: 14px; letter-spacing: 1px;">🛰️ SYS.STATUS // DIAGNOSTICS</div>
+        <div style="font-size: 12px; line-height: 1.5; color: #00FF66; font-family: monospace;">
+          &gt; ACCESSING CORE TELEMETRY... DONE<br/>
+          <span style="color: #ffffff;">&gt; CONNECTION_PORT   :: 8080 (SECURE)</span><br/>
+          <span style="color: #ffffff;">&gt; ACTIVE_MODULES    :: 5 OPERATIONAL</span><br/>
+          <span style="color: #ffffff;">&gt; SYS_UPTIME        :: SINCE 2024 // NO_STOP</span><br/>
+          <span style="color: #ffffff;">&gt; DEVELOPER_STATUS  :: ACTIVE_DECODER</span><br/>
+          <span style="color: #00E5FF;">&gt; INTEGRITY_INDEX   :: OPTIMAL [100%]</span>
+        </div>
       </td>
-      <td width="45%" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
+      <td width="45%" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px; vertical-align: top;">
+        <div style="color: #00E5FF; font-weight: bold; margin-bottom: 8px; font-size: 14px; letter-spacing: 1px; font-family: monospace; text-align: left;">🧠 CORE_LANGUAGES</div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&amp;layout=donut&amp;bg_color=090a0f&amp;title_color=00E5FF&amp;text_color=ffffff&amp;icon_color=00FF66&amp;hide_border=true&amp;cache_seconds=1800&amp;v=2" alt="Top Languages" />
       </td>
     </tr>
+    <tr style="height: 12px; border: none; background: transparent;"><td colspan="2" style="border: none; padding: 0;"></td></tr>
     <tr style="border: none; background: transparent;">
-      <td colspan="2" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
+      <td colspan="2" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 16px; border-radius: 8px;">
+        <div style="color: #00E5FF; font-weight: bold; margin-bottom: 12px; font-size: 14px; letter-spacing: 1px; font-family: monospace; text-align: left;">📊 ACTIVITY_INDEX // 30_DAY_TELEMETRY</div>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&amp;bg_color=090a0f&amp;color=00E5FF&amp;line=00E5FF&amp;point=00FF66&amp;area=true&amp;hide_border=true&amp;v=2" width="100%" alt="GitHub Activity Graph" />
       </td>
     </tr>
+    <tr style="height: 12px; border: none; background: transparent;"><td colspan="2" style="border: none; padding: 0;"></td></tr>
     <tr style="border: none; background: transparent;">
-      <td colspan="2" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 12px; border-radius: 8px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh02104&amp;theme=tokyonight&amp;background=090a0f&amp;hide_border=true&amp;cache_seconds=1800&amp;v=2" width="100%" alt="Streak Stats" />
+      <td colspan="2" align="center" style="border: 1px solid #121a24; background: #090a0f; padding: 16px; border-radius: 8px;">
+        <div style="color: #00E5FF; font-weight: bold; margin-bottom: 12px; font-size: 14px; letter-spacing: 1px; font-family: monospace; text-align: left;">📅 SYS.CONTRIBUTION_GRID // LIVE_TELEMETRY</div>
+        <img src="https://ghchart.rshah.org/00e5ff/Rishabh02104" width="100%" alt="GitHub Live Contribution Chart" />
       </td>
     </tr>
   </table>
