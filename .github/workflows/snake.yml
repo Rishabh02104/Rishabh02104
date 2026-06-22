@@ -2,6 +2,9 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 jobs:
   snake:
@@ -10,7 +13,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Rishabh02104
-          outputs: dist/github-snake-dark.svg?palette=github-dark
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

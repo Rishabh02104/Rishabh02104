@@ -286,10 +286,6 @@ graph LR
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rishabh02104&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
