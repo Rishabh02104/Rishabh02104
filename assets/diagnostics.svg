@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 185" width="440" height="185">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Orbitron:wght@400;700&amp;display=swap');
+      
+      .bg {
+        fill: #090a0f;
+      }
+      .border {
+        stroke: #121a24;
+        stroke-width: 1.5;
+        fill: none;
+      }
+      .text-title {
+        font-family: 'Orbitron', monospace;
+        font-size: 13px;
+        fill: #00E5FF;
+        font-weight: 700;
+        letter-spacing: 1px;
+      }
+      .text-label {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 12px;
+        fill: #5a6675;
+      }
+      .text-value {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 12px;
+        fill: #ffffff;
+      }
+      .text-active {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 12px;
+        fill: #00FF66;
+        font-weight: bold;
+      }
+      .text-cyan {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 12px;
+        fill: #00E5FF;
+      }
+      
+      @keyframes pulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 1; }
+      }
+      .animated-pulse {
+        animation: pulse 2s infinite ease-in-out;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="440" height="185" rx="8" class="bg" />
+  <!-- Border -->
+  <rect width="440" height="185" rx="8" class="border" />
+
+  <!-- Corner details -->
+  <path d="M 12,25 L 12,12 L 25,12" fill="none" stroke="#00E5FF" stroke-width="1.5" />
+  <path d="M 428,25 L 428,12 L 415,12" fill="none" stroke="#00E5FF" stroke-width="1.5" />
+  <path d="M 12,160 L 12,173 L 25,173" fill="none" stroke="#00E5FF" stroke-width="1.5" />
+  <path d="M 428,160 L 428,173 L 415,173" fill="none" stroke="#00E5FF" stroke-width="1.5" />
+
+  <!-- Content Group -->
+  <g transform="translate(25, 30)">
+    <!-- Header Title -->
+    <text x="0" y="10" class="text-title">🛰️ SYS.STATUS // DIAGNOSTICS</text>
+    <line x1="0" y1="18" x2="390" y2="18" stroke="#121a24" stroke-width="1.5" />
+
+    <!-- Terminal logs -->
+    <g transform="translate(0, 42)">
+      <!-- Line 1 -->
+      <text x="0" y="0" class="text-active">&gt; ACCESSING CORE TELEMETRY... DONE</text>
+      
+      <!-- Line 2 -->
+      <text x="0" y="20" class="text-label">&gt; CONNECTION_PORT   :: <tspan class="text-value">8080 (SECURE)</tspan></text>
+      
+      <!-- Line 3 -->
+      <text x="0" y="40" class="text-label">&gt; ACTIVE_MODULES    :: <tspan class="text-value">5 OPERATIONAL</tspan></text>
+      
+      <!-- Line 4 -->
+      <text x="0" y="60" class="text-label">&gt; SYS_UPTIME        :: <tspan class="text-value">SINCE 2024 // NO_STOP</tspan></text>
+      
+      <!-- Line 5 -->
+      <text x="0" y="80" class="text-label">&gt; DEVELOPER_STATUS  :: <tspan class="text-value">ACTIVE_DECODER</tspan></text>
+      
+      <!-- Line 6 -->
+      <text x="0" y="100" class="text-label">&gt; INTEGRITY_INDEX   :: <tspan class="text-cyan">OPTIMAL [100%]</tspan></text>
+    </g>
+  </g>
+</svg>
