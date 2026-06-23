@@ -275,16 +275,16 @@ graph LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=3" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=3" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=3" />
 
 </div>
 
@@ -297,9 +297,9 @@ graph LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=3" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=3" />
 </picture>
 
 </div>
