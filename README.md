@@ -173,11 +173,11 @@
 
 | FUNCTION | DETAIL |
 |:---|:---|
-| 🗺️ Classification | Binary terrain patch classification on live drone video feeds |
-| 📐 Measurement | Road width, angle & offset measurement via custom OpenCV logic |
-| ⚡ Pipeline | Async multi-thread video processing for real-time performance |
-| 🔧 **Challenge** | Variable model scales causing viewport clipping on render |
-| ✅ **Fix** | Bounding-box normalizer script scales matrices dynamically on mount |
+| 🗺️ Classification | Patch-based binary CNN classification (Road/Non-Road) on live drone feeds |
+| 📐 Metric Conversion | Computes real-world length, area, & coverage using altitude & FOV projections |
+| ⚡ CV Analytics | Estimates road width, angle & offset dynamically via custom OpenCV masks |
+| 🔧 **Challenge** | Pixel-to-metric scaling errors due to flight altitude fluctuations |
+| ✅ **Fix** | Dynamic scaling projection formula calibrated using drone altitude metrics |
 
 [![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github)](https://github.com/Rishabh02104/drone-binary-terrain-mapping)
 
