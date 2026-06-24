@@ -207,6 +207,31 @@
 
 </div>
 
+---
+
+<div align="center">
+
+### `[ MODULE_06 // VoxFrame ]`
+#### 🎙️ Dual AI Subtitle & Video Transcription Engine
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Google](https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white)
+
+| FUNCTION | DETAIL |
+|:---|:---|
+| 🎙️ Transcription | Dual transcription pipeline using Groq Whisper API for high-speed voice processing |
+| 👁️ Visual Analysis | Scans frames of silent videos using Gemini Vision API to describe contextual actions |
+| 🧩 Subtitles | Generates accurately aligned SRT/VTT subtitle files from combined outputs |
+| 🔧 **Challenge** | Splicing audio sync markers with visual context description frames |
+| ✅ **Fix** | Chronological offset manager merges transcription cues and frame description timestamps |
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github)](https://github.com/Rishabh02104/VoxFrame)
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
 
 ---
@@ -267,6 +292,21 @@ graph LR
   style E fill:#0d1117,stroke:#00FF41,color:#00FF41
 ```
 
+#### `[ PIPELINE_05 ]` VoxFrame — Dual AI Subtitle Processing
+
+```mermaid
+graph LR
+  Video[📹 Video Input] -->|Audio Extraction| Audio[🎙️ Audio Stream]
+  Video -->|Frame Extraction| Frames[🖼️ Frame Sequence]
+  Audio -->|Groq Whisper| Trans[📝 Text Transcription]
+  Frames -->|Gemini Vision| Descriptions[👁️ Visual Context]
+  Trans & Descriptions -->|Merger Engine| Merge[🧩 Sync & Merge]
+  Merge -->|Align Timestamps| SRT[📄 SRT/VTT Subtitles]
+  style Video fill:#0d1117,stroke:#00E5FF,color:#00E5FF
+  style SRT fill:#0d1117,stroke:#00FF41,color:#00FF41
+  style Merge fill:#0d1117,stroke:#FF6B35,color:#FF6B35
+```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
 
 ---
@@ -275,16 +315,16 @@ graph LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=3" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=4" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=3" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=4" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=3" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=4" />
 
 </div>
 
@@ -297,9 +337,9 @@ graph LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=3" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=4" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=4" />
 </picture>
 
 </div>
