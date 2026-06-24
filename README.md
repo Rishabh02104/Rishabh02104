@@ -212,21 +212,22 @@
 <div align="center">
 
 ### `[ MODULE_06 // VoxFrame ]`
-#### 🎙️ Dual AI Subtitle & Video Transcription Engine
+#### 🎬 Video Caption Design Studio & AI Suggestion Engine
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![Google](https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_Whisper-FF6B35?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude_Vision-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 | FUNCTION | DETAIL |
 |:---|:---|
-| 🎙️ Transcription | Dual transcription pipeline using Groq Whisper API for high-speed voice processing |
-| 👁️ Visual Analysis | Scans frames of silent videos using Gemini Vision API to describe contextual actions |
-| 🧩 Subtitles | Generates accurately aligned SRT/VTT subtitle files from combined outputs |
-| 🔧 **Challenge** | Splicing audio sync markers with visual context description frames |
-| ✅ **Fix** | Chronological offset manager merges transcription cues and frame description timestamps |
+| 👁️ Scene Analysis | Claude 3.5 Sonnet analyzes video frames to suggest contextual caption text |
+| 🎵 Speech Decoding | Groq Whisper transcribes voice feeds word-by-word with accurate timestamps |
+| 🎨 Frame Editor | Figma-like panel styling per-card (fonts, shadow, background, canvas overlays) |
+| 🔧 **Challenge** | Client-side video compiling and canvas text drag-and-drop boundary collisions |
+| ✅ **Fix** | Captured canvas frame streams dynamically using MediaRecorder into WebM blobs |
 
 [![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github)](https://github.com/Rishabh02104/VoxFrame)
 
@@ -292,19 +293,18 @@ graph LR
   style E fill:#0d1117,stroke:#00FF41,color:#00FF41
 ```
 
-#### `[ PIPELINE_05 ]` VoxFrame — Dual AI Subtitle Processing
+#### `[ PIPELINE_05 ]` VoxFrame — Video Caption Design Studio & AI Suggestion Flow
 
 ```mermaid
 graph LR
-  Video[📹 Video Input] -->|Audio Extraction| Audio[🎙️ Audio Stream]
-  Video -->|Frame Extraction| Frames[🖼️ Frame Sequence]
-  Audio -->|Groq Whisper| Trans[📝 Text Transcription]
-  Frames -->|Gemini Vision| Descriptions[👁️ Visual Context]
-  Trans & Descriptions -->|Merger Engine| Merge[🧩 Sync & Merge]
-  Merge -->|Align Timestamps| SRT[📄 SRT/VTT Subtitles]
-  style Video fill:#0d1117,stroke:#00E5FF,color:#00E5FF
-  style SRT fill:#0d1117,stroke:#00FF41,color:#00FF41
-  style Merge fill:#0d1117,stroke:#FF6B35,color:#FF6B35
+  A[📹 Video Upload] -->|1.5 FPS Frame Probe| B[🖼️ Scene Frames]
+  A -->|Groq Whisper| C[🗣️ Audio Transcript]
+  B & C -->|Claude 3.5 Sonnet| D[🧠 AI Suggestions]
+  D -->|Figma-like Editor| E[🎨 Subtitle Design]
+  E -->|MediaRecorder Stream| F[🎬 WebM Export]
+  style A fill:#0d1117,stroke:#00E5FF,color:#00E5FF
+  style D fill:#0d1117,stroke:#FF6B35,color:#FF6B35
+  style F fill:#0d1117,stroke:#00FF41,color:#00FF41
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
@@ -315,16 +315,29 @@ graph LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=4" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=4" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=3" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=4" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=3" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=4" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=3" />
+
+<br/><br/>
+
+### `[ ACTIVE REPOSITORY CONTRIBUTION MATRIX ]`
+
+| MODULE | TARGET REPOSITORY | COMPLETED COMMITS | KEY CONTRIBUTIONS | STATUS |
+|:---|:---|:---|:---|:---|
+| **MODULE_01** | [`AI_Job_Agent`](https://github.com/Rishabh02104/AI_Job_Agent) | `18 Commits` | Playwright scrapper, CAPTCHA bypass, Supabase sync | `Active` |
+| **MODULE_02** | [`RishavendraOS`](https://github.com/Rishabh02104/RishavendraOS) | `24 Commits` | 3D synapse nav, depth pre-pass shader masking, GSAP camera LERPs | `Active` |
+| **MODULE_03** | [`CareerForge_AI`](https://github.com/Rishabh02104/Careerforge-ai) | `12 Commits` | ATS scoring engine, structured JSON LLM parsing, prompt tuning | `Completed` |
+| **MODULE_04** | [`drone-binary-terrain-mapping`](https://github.com/Rishabh02104/drone-binary-terrain-mapping) | `8 Commits` | Patch-based binary CNN classification, dynamic altitude scaling | `Completed` |
+| **MODULE_05** | [`secure-voting`](https://github.com/Rishabh02104/secure-voting) | `6 Commits` | Visual cryptography split algorithm, canvas pixel-ratio locking | `Completed` |
+| **MODULE_06** | [`VoxFrame`](https://github.com/Rishabh02104/VoxFrame) | `20 Commits` | Rebuilt Video Caption Design Studio, Claude Vision, WebM encoder | `Active` |
 
 </div>
 
@@ -337,9 +350,9 @@ graph LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=4" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=4" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=3" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=3" />
 </picture>
 
 </div>
@@ -357,14 +370,14 @@ graph LR
 <td align="center" width="33%">
 
 ### `VoxFrame`
-![Progress](https://geps.dev/progress/80?dangerColor=ff4444&warningColor=ff9900&successColor=00ff41)
-![80%](https://img.shields.io/badge/PROGRESS-80%25-00ff41?style=for-the-badge)
+![Progress](https://geps.dev/progress/100?dangerColor=ff4444&warningColor=ff9900&successColor=00ff41)
+![100%](https://img.shields.io/badge/PROGRESS-100%25-00ff41?style=for-the-badge)
 
-**Stack:** Next.js · FastAPI · Groq Whisper · Gemini Vision
+**Stack:** Next.js · Groq Whisper · Claude Vision · Canvas
 
-*Dual AI subtitle engine — audio transcription + silent video visual analysis*
+*Video caption design studio — AI suggestions meet per-card styling and WebM burn-in export*
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github)](https://github.com/Rishabh02104)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github)](https://github.com/Rishabh02104/VoxFrame)
 
 </td>
 <td align="center" width="33%">
@@ -419,7 +432,7 @@ graph LR
 ║  [port]        :: 8080 — handshake ready                        ║
 ║  [stack]       :: Next.js · FastAPI · Three.js · Groq · CV      ║
 ║  [uptime]      :: building since 2022 — no signs of stopping    ║
-║  [last_commit] :: pushing to main...                            ║
+║  [last_commit] :: release/voxframe-v2.0.0-stable                ║
 ║  [status]      :: OPEN TO SDE-1 ROLES — immediate joiner        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
