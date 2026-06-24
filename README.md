@@ -315,16 +315,16 @@ graph LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=3" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=5" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=3" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=5" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=3" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=5" />
 
 <br/><br/>
 
@@ -334,8 +334,8 @@ graph LR
 |:---|:---|:---|:---|:---|
 | **MODULE_01** | [`AI_Job_Agent`](https://github.com/Rishabh02104/AI_Job_Agent) | `18 Commits` | Playwright scrapper, CAPTCHA bypass, Supabase sync | `Active` |
 | **MODULE_02** | [`RishavendraOS`](https://github.com/Rishabh02104/RishavendraOS) | `24 Commits` | 3D synapse nav, depth pre-pass shader masking, GSAP camera LERPs | `Active` |
-| **MODULE_03** | [`CareerForge_AI`](https://github.com/Rishabh02104/Careerforge-ai) | `12 Commits` | ATS scoring engine, structured JSON LLM parsing, prompt tuning | `Completed` |
-| **MODULE_04** | [`drone-binary-terrain-mapping`](https://github.com/Rishabh02104/drone-binary-terrain-mapping) | `8 Commits` | Patch-based binary CNN classification, dynamic altitude scaling | `Completed` |
+| **MODULE_03** | [`CareerForge_AI`](https://github.com/Rishabh02104/Careerforge-ai) | `14 Commits` | ATS scoring engine, structured JSON LLM parsing, prompt tuning | `Completed` |
+| **MODULE_04** | [`drone-binary-terrain-mapping`](https://github.com/Rishabh02104/drone-binary-terrain-mapping) | `24 Commits` | CNN & UNet road segmenter, OSM road masks, patch crop optimization | `Completed` |
 | **MODULE_05** | [`secure-voting`](https://github.com/Rishabh02104/secure-voting) | `6 Commits` | Visual cryptography split algorithm, canvas pixel-ratio locking | `Completed` |
 | **MODULE_06** | [`VoxFrame`](https://github.com/Rishabh02104/VoxFrame) | `20 Commits` | Rebuilt Video Caption Design Studio, Claude Vision, WebM encoder | `Active` |
 
@@ -350,9 +350,9 @@ graph LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=3" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=5" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=5" />
 </picture>
 
 </div>
