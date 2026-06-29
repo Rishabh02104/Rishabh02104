@@ -36,7 +36,7 @@
 | ⏱️ **UPTIME** | Continuous learning & optimization |
 | 🧠 **RAM** | 1.02 TB *(Virtual Cognitive Matrix)* |
 | ⚡ **CURRENT_PROCESS** | Agentic AI Systems · Volumetric WebGL Renderers |
-| 🏗️ **CURRENT_BUILD** | `VoxFrame` + `AI_Job_Agent v2` |
+| 🏗️ **CURRENT_BUILD** | `HireFlow` + `VoxFrame` |
 | 📡 **STATUS** | ![Seeking](https://img.shields.io/badge/OPEN_TO_WORK-SDE--1_Roles-00FF41?style=flat-square) |
 
 </div>
@@ -65,6 +65,7 @@
 <img src="https://img.shields.io/badge/Groq_Llama-FF6B35?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gemini_Vision-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Lemma_SDK-8b5cf6?style=for-the-badge" />
 
 **`[ TOOLING & DEPLOYMENT ]`**
 
@@ -233,6 +234,31 @@
 
 </div>
 
+---
+
+<div align="center">
+
+### `[ MODULE_07 // HireFlow ]`
+#### 🤖 AI-Powered Recruiter CRM & Candidate Assessment Pipeline
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lemma](https://img.shields.io/badge/Lemma_SDK-8b5cf6?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00FF41?style=flat-square)
+
+| FUNCTION | DETAIL |
+|:---|:---|
+| 🤖 Screening | Automatically parses and scores candidates out of 100% against job requirements |
+| 🎯 Interview Kits | Generates candidate-tailored culture-fit and technical questions |
+| 🔍 Guest Mode | Fully isolated sandbox pre-seeded with 8 mock candidates residing in local memory |
+| 🔧 **Challenge** | API limits, OAuth barriers, and service downtime blocking hackathon evaluation |
+| ✅ **Fix** | Bypassed authentication in Guest Mode, intercepting SDK requests with client-side fallback data |
+
+[![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github)](https://github.com/Rishabh02104/HireFlow)
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
 
 ---
@@ -307,6 +333,22 @@ graph LR
   style F fill:#0d1117,stroke:#00FF41,color:#00FF41
 ```
 
+#### `[ PIPELINE_06 ]` HireFlow — AI-Powered Recruiting Pipeline
+
+```mermaid
+graph LR
+  UI[🌐 Browser UI] -->|Lemma SDK| DB[(Lemma Tables DB)]
+  DB -->|Workflow Trigger| Work[⚙️ Daily Digest / Auto Score]
+  Work -->|Invoke Agents| Scorer[🤖 Candidate Scorer]
+  Work -->|Invoke Agents| Insights[🧠 Profile Insights]
+  Work -->|Invoke Agents| Interviewer[🎯 Tailored Interviewer]
+  style UI fill:#0d1117,stroke:#00E5FF,color:#00E5FF
+  style DB fill:#0d1117,stroke:#FF6B35,color:#FF6B35
+  style Scorer fill:#0d1117,stroke:#00FF41,color:#00FF41
+  style Insights fill:#0d1117,stroke:#00FF41,color:#00FF41
+  style Interviewer fill:#0d1117,stroke:#00FF41,color:#00FF41
+```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
 
 ---
@@ -315,16 +357,16 @@ graph LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=5" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=6" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=5" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=6" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=5" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=6" />
 
 <br/><br/>
 
@@ -337,7 +379,8 @@ graph LR
 | **MODULE_03** | [`CareerForge_AI`](https://github.com/Rishabh02104/Careerforge-ai) | `14 Commits` | ATS scoring engine, structured JSON LLM parsing, prompt tuning | `Completed` |
 | **MODULE_04** | [`drone-binary-terrain-mapping`](https://github.com/Rishabh02104/drone-binary-terrain-mapping) | `24 Commits` | CNN & UNet road segmenter, OSM road masks, patch crop optimization | `Completed` |
 | **MODULE_05** | [`secure-voting`](https://github.com/Rishabh02104/secure-voting) | `6 Commits` | Visual cryptography split algorithm, canvas pixel-ratio locking | `Completed` |
-| **MODULE_06** | [`VoxFrame`](https://github.com/Rishabh02104/VoxFrame) | `20 Commits` | Rebuilt Video Caption Design Studio, Claude Vision, WebM encoder | `Active` |
+| **MODULE_06** | [`VoxFrame`](https://github.com/Rishabh02104/VoxFrame) | `21 Commits` | Rebuilt Video Caption Design Studio, Claude Vision, WebM encoder | `Active` |
+| **MODULE_07** | [`HireFlow`](https://github.com/Rishabh02104/HireFlow) | `10 Commits` | AI candidate scoring, daily digest workflows, isolated guest sandbox mode | `Active` |
 
 </div>
 
@@ -350,9 +393,9 @@ graph LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=5" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=6" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=6" />
 </picture>
 
 </div>
@@ -367,7 +410,20 @@ graph LR
 
 <table border="0" width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+### `HireFlow`
+![Progress](https://geps.dev/progress/100?dangerColor=ff4444&warningColor=ff9900&successColor=00ff41)
+![100%](https://img.shields.io/badge/PROGRESS-100%25-00ff41?style=for-the-badge)
+
+**Stack:** Lemma SDK · JS · HTML5 · CSS3
+
+*AI recruiter CRM — resume screen scoring, tailored interview kits, and guest sandbox*
+
+[![Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github)](https://github.com/Rishabh02104/HireFlow)
+
+</td>
+<td align="center" width="25%">
 
 ### `VoxFrame`
 ![Progress](https://geps.dev/progress/100?dangerColor=ff4444&warningColor=ff9900&successColor=00ff41)
@@ -380,7 +436,7 @@ graph LR
 [![Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github)](https://github.com/Rishabh02104/VoxFrame)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### `AI_Job_Agent`
 ![Progress](https://geps.dev/progress/60?dangerColor=ff4444&warningColor=ff9900&successColor=00ff41)
@@ -393,7 +449,7 @@ graph LR
 [![Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github)](https://github.com/Rishabh02104/AI_Job_Agent)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 ### `RishavendraOS`
 ![Progress](https://geps.dev/progress/90?dangerColor=ff4444&warningColor=ff9900&successColor=00ff41)
@@ -430,9 +486,9 @@ graph LR
 ╔══════════════════════════════════════════════════════════════════╗
 ║  [session_id]  :: rishavendrasharma9353@gmail.com               ║
 ║  [port]        :: 8080 — handshake ready                        ║
-║  [stack]       :: Next.js · FastAPI · Three.js · Groq · CV      ║
+║  [stack]       :: Next.js · FastAPI · Three.js · Lemma · CV     ║
 ║  [uptime]      :: building since 2022 — no signs of stopping    ║
-║  [last_commit] :: release/voxframe-v2.0.0-stable                ║
+║  [last_commit] :: release/hireflow-v1.0.0-hackathon             ║
 ║  [status]      :: OPEN TO SDE-1 ROLES — immediate joiner        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
