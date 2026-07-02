@@ -100,8 +100,8 @@
 | 🎯 CV Scoring | Match-scores resumes against listings using pgvector embeddings + LLM checkers |
 | 🕷️ Crawler | Playwright listings scraper with user-agent rotation & header bypass |
 | 🤖 Automation | Automates form filling & browser-driven submissions end-to-end |
-| 🔧 **Challenge** | Playwright CAPTCHA blocks & rate-limit throttling |
-| ✅ **Fix** | Rotated headers, randomized viewports, Supabase session tracking |
+| 🔧 **Challenge** | CAPTCHA blocks & headless detection on complex application portals |
+| ✅ **Fix** | Headed CAPTCHA solver, verification dry runs, and auto-apply flow |
 
 [![View Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=for-the-badge&logo=github)](https://github.com/Rishabh02104/AI_Job_Agent)
 [![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-two-sigma-88.vercel.app/)
@@ -357,16 +357,16 @@ graph LR
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=6" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabh02104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E5FF&icon_color=00FF41&text_color=ffffff&ring_color=00E5FF&cache_seconds=1800&v=7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh02104&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff&langs_count=8&cache_seconds=1800&v=7" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=6" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishabh02104&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=FF6B35&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&cache_seconds=1800&v=7" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=6" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh02104&bg_color=0d1117&color=00E5FF&line=00E5FF&point=00FF41&area=true&hide_border=true&v=7" />
 
 <br/><br/>
 
@@ -374,7 +374,7 @@ graph LR
 
 | MODULE | TARGET REPOSITORY | COMPLETED COMMITS | KEY CONTRIBUTIONS | STATUS |
 |:---|:---|:---|:---|:---|
-| **MODULE_01** | [`AI_Job_Agent`](https://github.com/Rishabh02104/AI_Job_Agent) | `18 Commits` | Playwright scrapper, CAPTCHA bypass, Supabase sync | `Active` |
+| **MODULE_01** | [`AI_Job_Agent`](https://github.com/Rishabh02104/AI_Job_Agent) | `20 Commits` | Playwright crawler, headed CAPTCHA resolver, verification dry runs | `Active` |
 | **MODULE_02** | [`RishavendraOS`](https://github.com/Rishabh02104/RishavendraOS) | `24 Commits` | 3D synapse nav, depth pre-pass shader masking, GSAP camera LERPs | `Active` |
 | **MODULE_03** | [`CareerForge_AI`](https://github.com/Rishabh02104/Careerforge-ai) | `14 Commits` | ATS scoring engine, structured JSON LLM parsing, prompt tuning | `Completed` |
 | **MODULE_04** | [`drone-binary-terrain-mapping`](https://github.com/Rishabh02104/drone-binary-terrain-mapping) | `24 Commits` | CNN & UNet road segmenter, OSM road masks, patch crop optimization | `Completed` |
@@ -393,9 +393,9 @@ graph LR
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=6" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake.svg?v=7" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Rishabh02104/Rishabh02104/output/github-snake-dark.svg?v=7" />
 </picture>
 
 </div>
@@ -439,12 +439,12 @@ graph LR
 <td align="center" width="25%">
 
 ### `AI_Job_Agent`
-![Progress](https://geps.dev/progress/60?dangerColor=ff4444&warningColor=ff9900&successColor=00ff41)
-![60%](https://img.shields.io/badge/PROGRESS-60%25-ff9900?style=for-the-badge)
+![Progress](https://geps.dev/progress/80?dangerColor=ff4444&warningColor=ff9900&successColor=00ff41)
+![80%](https://img.shields.io/badge/PROGRESS-80%25-00ff41?style=for-the-badge)
 
 **Stack:** FastAPI · Playwright · Supabase · Groq Llama
 
-*CAPTCHA bypass layer + intelligent resume tailoring per job listing*
+*Headed CAPTCHA resolver + auto-apply dry-run validation & dashboard alerts*
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-181717?style=flat-square&logo=github)](https://github.com/Rishabh02104/AI_Job_Agent)
 
