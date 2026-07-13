@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0a0e1a&height=140&section=header&text=RISHABH02104&fontSize=42&fontColor=00E5FF&fontAlignY=55&animation=fadeIn&desc=SYS.CORE+//+NEURAL+GRAPHICS+ONLINE&descSize=14&descAlignY=78&descColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=SYS.CORE_handshake_established...;Initializing+Rishavendra+Core+v2.0;AI_Developer+%26+WebGL_Architect;Agentic+Systems+%7C+Computer+Vision+%7C+3D+Web;STATUS%3A+SEEKING+SDE-1+ROLES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=SYS.CORE_handshake_established...;Initializing+Rishavendra+Core+v2.0;AI_Developer+%26+WebGL_Architect;Agentic+Systems+%7C+Computer+Vision+%7C+3D+Web;STATUS%3A+SEEKING+SOFTWARE%2C+FRONTEND+%26+AI+DEVELOPER+ROLES" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Rishabh02104&color=00e5ff&style=for-the-badge&label=CORE+ACCESS" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPER-00FF41?style=for-the-badge&logo=statuspage&logoColor=black" />
-<img src="https://img.shields.io/badge/TARGET-SDE--1_ROLES-FF6B35?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/TARGET-SOFTWARE,_FRONTEND_%26_AI_DEVELOPER_ROLES-FF6B35?style=for-the-badge&logo=target&logoColor=white" />
 <img src="https://img.shields.io/badge/LOCATION-INDIA-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
@@ -37,7 +37,7 @@
 | 🧠 **RAM** | 1.02 TB *(Virtual Cognitive Matrix)* |
 | ⚡ **CURRENT_PROCESS** | Agentic AI Systems · Volumetric WebGL Renderers |
 | 🏗️ **CURRENT_BUILD** | `HireFlow` + `VoxFrame` |
-| 📡 **STATUS** | ![Seeking](https://img.shields.io/badge/OPEN_TO_WORK-SDE--1_Roles-00FF41?style=flat-square) |
+| 📡 **STATUS** | ![Seeking](https://img.shields.io/badge/OPEN_TO_WORK-SOFTWARE,_FRONTEND_%26_AI_ROLES-00FF41?style=flat-square) |
 
 </div>
 
@@ -489,7 +489,7 @@ graph LR
 ║  [stack]       :: Next.js · FastAPI · Three.js · Lemma · CV     ║
 ║  [uptime]      :: building since 2022 — no signs of stopping    ║
 ║  [last_commit] :: release/hireflow-v1.0.0-hackathon             ║
-║  [status]      :: OPEN TO SDE-1 ROLES — immediate joiner        ║
+║  [status]      :: OPEN TO SOFTWARE, FRONTEND & AI ROLES         ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
