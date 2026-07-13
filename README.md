@@ -376,11 +376,11 @@ graph LR
 |:---|:---|:---|:---|:---|
 | **MODULE_01** | [`AI_Job_Agent`](https://github.com/Rishabh02104/AI_Job_Agent) | `20 Commits` | Playwright crawler, headed CAPTCHA resolver, verification dry runs | `Active` |
 | **MODULE_02** | [`RishavendraOS`](https://github.com/Rishabh02104/RishavendraOS) | `24 Commits` | 3D synapse nav, depth pre-pass shader masking, GSAP camera LERPs | `Active` |
-| **MODULE_03** | [`CareerForge_AI`](https://github.com/Rishabh02104/Careerforge-ai) | `14 Commits` | ATS scoring engine, structured JSON LLM parsing, prompt tuning | `Completed` |
+| **MODULE_03** | [`CareerForge_AI`](https://github.com/Rishabh02104/Careerforge-ai) | `14 Commits` | ATS scoring engine, structured JSON LLM parsing, prompt tuning | `Active` |
 | **MODULE_04** | [`drone-binary-terrain-mapping`](https://github.com/Rishabh02104/drone-binary-terrain-mapping) | `24 Commits` | CNN & UNet road segmenter, OSM road masks, patch crop optimization | `Completed` |
-| **MODULE_05** | [`secure-voting`](https://github.com/Rishabh02104/secure-voting) | `6 Commits` | Visual cryptography split algorithm, canvas pixel-ratio locking | `Completed` |
+| **MODULE_05** | [`secure-voting`](https://github.com/Rishabh02104/secure-voting) | `6 Commits` | Visual cryptography split algorithm, canvas pixel-ratio locking | `Research` |
 | **MODULE_06** | [`VoxFrame`](https://github.com/Rishabh02104/VoxFrame) | `21 Commits` | Rebuilt Video Caption Design Studio, Claude Vision, WebM encoder | `Active` |
-| **MODULE_07** | [`HireFlow`](https://github.com/Rishabh02104/HireFlow) | `10 Commits` | AI candidate scoring, daily digest workflows, isolated guest sandbox mode | `Active` |
+| **MODULE_07** | [`HireFlow`](https://github.com/Rishabh02104/HireFlow) | `10 Commits` | AI candidate scoring, daily digest workflows, isolated guest sandbox mode | `Shipped` |
 
 </div>
 
